@@ -60,4 +60,47 @@ TODO: TWO tables
 - Waist circumference
 
 - Waist-to-hip ratio
-![image](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/fc5d993b-2387-4975-9c71-b28b76e1acbf)
+
+
+# Chr8: Cardiorespiratory Training: Physiology, Assessments, and Programming
+
+## Anatomical System
+
+- Cardiorespiratory system: The categories of blood vessels: arteries and arterioles (carry blood from heart); capillaries; venules and veins (return blood to heart).
+
+- Respiratory system
+
+
+
+## Physiology of Cardiorespiratory System
+
+- Oxygen-carrying capacity: the ability to adequately ventilate the alveoli in the lungs (pulmonary ventilation: rate and depth of breathing – tidal volumn), the hemoglobin (Hb) concentration of the blood.
+
+- Oxygen Delivery: 
+
+Cardiac output = HR * SV (stroke volume): at rest average 5 litters/min; during maximal exercise 20-25 and can rise to 30-40 liters/min.
+
+- Oxygen extraction: for aerobic production of ATP in the mitochondria, depends on muscle-fiber type and availability of specialized oxidative enzymes. 
+
+
+
+## Physiological Adaptations to Acute and Chronic Cardiorespiratory Exercise
+
+- Muscular system: low-intensity endurance exercise – type 1 (slow-twitch) muscle fibers – size and number of mitochondria – hypertrophy; high-intensity exercise – type 2 (fast-twitch) muscle fibers – number of anaerobic enzymes.
+
+- Cardiovascular system: larger SV, as maximal HR (MHR) not increase with training.
+
+- Time required for increases in cardiorespiratory fitness: Maximal oxygen uptake (VO2max, standard marker of cardio) – increase with training but plateaus about 6 months; ventilatory threshold (VT, important marker of metabolism, permits prediction of lactate threshold) – change continue for years, as capillary growth and increased mitochondrial density.
+
+- 
+
+
+## Environmental Consideration
+
+## General Guidelines
+
+## Assessments
+
+## Components of a Cardiorespiratory Workout Session
+
+## ACE integrated Fitness Training Model
