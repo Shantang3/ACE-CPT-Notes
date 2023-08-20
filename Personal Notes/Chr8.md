@@ -53,11 +53,17 @@ TODO: add table 8.4
 
 - Intensity: by HR, Rating of perceived exertion (RPE), VO2 or metabolic equivalents (METs), caloric expenditure, talk test and HR at 1st ventilatory threshold (VT1), blood lactate and HR at VT2, etc. 
 
-Maximal HR (MHR) = (220-AGE) with 12 bmp standard deviations (Fox, Naughton, Haskell); MHR = 206.9 - 0.69 * Age (Gellish); influenced by genetics, exercise modality, medications, body size (usually higher in smaller individuals), altitude, age (generally decreases by 1-bpm each year)
+* Maximal HR (MHR) = (220-AGE) with 12 bmp standard deviations (Fox, Naughton, Haskell); MHR = 206.9 - 0.69 * Age (Gellish); influenced by genetics, exercise modality, medications, body size (usually higher in smaller individuals), altitude, age (generally decreases by 1-bpm each year)
 
-Targeted HR (THR) = HRR * %intensity + RHR, where HRR=MHR-RHR
+* Targeted HR (THR) = HRR * %intensity + RHR, where HRR=MHR-RHR
+
+* VO2 and metabolic equivalent: minimal improvement in VO2 max threshold: 40/50% of VO2 max and VO2R
+
+* Caloric expenditure
 
 Table 8.8 MET
+
+* VT1 and VT2: talk comfortably below VT1 in zone 1; cannot talk comfortably avove V2 in some . 
 
 - Duration (time)
 
@@ -71,6 +77,13 @@ Table 8.8 MET
 
 ## Assessments
 
+- Ventilatory threshold assessment: VT1 for 1-2 hours of exercise; VT2 for 30-60 minutes for well-trained individuals.
+
+- Talk test: simple questions or counting numbers during the expiration phase of one breath (70% as normal: VT1)
+
+- Submaximal talk test for VT1: HR telemetry for continuous monitoring for 5-bpm increase to measure HR response at VT1 by increasing exercise intensity.\
+
+- VT2 threshold (onset of blood lactate accumulation OBLA): 10-mile time run or 30 minutes to estimate HR at VT2. 
 
 
 ## Components of a Cardiorespiratory Workout Session
