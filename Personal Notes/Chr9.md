@@ -1,4 +1,4 @@
-#Chr9: Muscular Training -  Foundations and Benefit
+# Chr9: Muscular Training -  Foundations and Benefit
 
 ## Anatomical systems
 
