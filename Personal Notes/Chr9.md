@@ -69,19 +69,23 @@ Be aware of delayed-onset muscle soreness (DOMS): exceptionally challenging trai
 
 ## Muscular Training Variables and Program Design
 
-- Needs assessment
+- Needs assessment: goal activity or sport - movement, physiological, injury analysis; individual assessment - current conditioning level, training history and technique, history of injury/fear, tolerance for discomfort.
 
-- Training frequency
+- Training frequency: inversely related to training volume and intensity
 
-- Exercise selection and order
+- Exercise selection and order: primary exercises involve multiple muscles from one or larger muscle areas; accessory exercises involve smaller muscle groups from more isolated areas that span one joint. Recommendation: target each major muscle group two or three days per week, allowing a minimum of 48 hours of recovery between sessions. 
 
-- Training volume
+- Training volume and loads: sets, repetitions, and intensity.
 
-- Training intensity
+Volumn = sets * reps * weight load (for load-volume calculation). Typically lower for competitive powerlifters as they focus on improving muscle's ability to max recruit fibers to generate higher amounts of force; competitive bodybuilders. on the other hand, perform higher-volume workouts.  
 
-- Training Tempo
+Table 9.12. 
 
-- Best intervals
+- Training intensity: % of max resistance (higher intensity training sessions require lower exercise volume). Most periodization models for muscular training begin with high-volume/low-intensity workouts, progress to moderate-volume/moderate-intensity workouts and conclude with lower-volume/higher-intensity workouts. 
+
+- Training Tempo: commonly recommended movement speed of six seconds per repetition. 
+
+- Best intervals (recovery period): replenishment of muscle energy substrates is relatively rapid, with 50% renewal within the first 30 sec, 75% within the first minute, and 95% renewal within the first two minutes. 
 
 
 
