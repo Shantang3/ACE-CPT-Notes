@@ -2,7 +2,7 @@
 
 ## Possible causes of obesity
 
-Enviromental factors, stress, genetics, hormaones (leptin, adiponectin, immune hormones, appetite-regulating hormones), sleep, energy balance
+Environmental factors, stress, genetics, hormones (leptin, adiponectin, immune hormones, appetite-regulating hormones), sleep, energy balance
 
 
 ## Nutritional Guidelines
