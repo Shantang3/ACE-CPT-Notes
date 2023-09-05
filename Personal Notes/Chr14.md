@@ -39,9 +39,20 @@ Recommendation: participate in exercise at the same level as other adults, perfo
 
 - Acute and Chronic injuries: the physiology of healing
 
-Phase I: Inflammation, 
+Phase I - inflammation (3-4 days after injury): implement RICE (rest or restricted activity, ice, compression, and elevation). Phase II - repair (may overlap with inflammation and last approx 6 weeks). Phase III - remodeling (overlaps with repair at about 3-6 weeks post-injury; healing, especially of ligament and bone, can last 1-2 years). 
 
--  Common Overuse Conditions
+#### Common Acute Injuries
+- Muscle strains: tears of the muscle fibers due to work beyond capacity.
+
+- Ligament sprains: more frequently occur as pressure to stretch the ligament. e.g. ACL (anterior cruciate ligament).
+
+- Cartilage Damage: compression of the joint coupled with a shearing motion > joint stiffness, clicking or popping with weight-bearing activities, joint pain.
+
+- Bone fractures; Head, neck and back injuries:
+   
+#### Common Overuse Conditions
+
+- Tendinities
 
 ## Preventing Musculoskeletal Injury
 
