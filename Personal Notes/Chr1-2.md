@@ -1,6 +1,6 @@
 # Chr1: Role and Scope of Practice for Personal Trainers
 
-** Key: Personal Trainer's scope of practice defines a unique profession dedicated to helping people improve fitness, health, and quality of life through physical activities, and PREVENT disease. ** 
+**Key: Personal Trainer's scope of practice defines a unique profession dedicated to helping people improve fitness, health, and quality of life through physical activities, and PREVENT disease.** 
 
 ## Professional Responsibility and Ethics
 
@@ -15,7 +15,7 @@
 
 Function-Health-Fitness-Performance Continuum
 
-** Key: ACE IFT Model as a practice to provide clients with evidence-based and personalized exercise programs. **
+**Key: ACE IFT Model as a practice to provide clients with evidence-based and personalized exercise programs.**
 
 ![IMG_0991](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/4b0872fb-9e04-4767-ae42-53134503a6d5)
 
