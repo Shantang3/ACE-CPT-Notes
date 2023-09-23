@@ -1,6 +1,6 @@
 # Chr1: Role and Scope of Practice for Personal Trainers
 
-**Key: Personal Trainer's scope of practice defines a unique profession dedicated to helping people improve fitness, health, and quality of life through physical activities, and PREVENT disease.** 
+**Key: Personal Trainer's scope of practice defines a unique profession dedicated to helping people improve fitness, health, and quality of life through physical activities, and PREVENT disease.**
 
 ## Professional Responsibility and Ethics
 
