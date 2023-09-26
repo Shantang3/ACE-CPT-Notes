@@ -30,12 +30,23 @@ Building rapport is a critical component; ABC approach: ask open-ended questions
 ![IMG_0992](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/a93fa7a3-0361-4d9c-ab47-83f6e52258fb)
 
 
-1. Cardiorespiratory Training: base training, fitness training, performance training
+1. Cardiorespiratory Training: 
    
 ![IMG_0993](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/dceac673-be9b-4090-a94a-9be897447a19)
 
+- Base Training (different from aerobic-basic training yjat is performed by endurance athletes in offseason training): develop an initial aerobic nase in clients who have been insufficiently active (non consistently performing moderate-intensity cardio for at least 20 mins on at least 3 days per week). Goal is to create early positive exerce esperiences while gradually increasing duration and prequency.
+  
+- Fitness Training: focuse on enhancing client's aerobic efficiency by progressing program based on individual's goals.
+  
+- Performance Training: for individuals with goals that are focused on success in endurance sports and events.
+  
 
-2. Muscular Training: functional training, movement training, load/speed training
+2. Muscular Training: 
    
 ![IMG_0994](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/bdea8629-9795-4d0f-b8eb-07a41c78f684)
 
+- Functional Training: to establish or re-establish postural stability and kinetic chain mobility by improving joint function, muscular endurance, flexibility, core functionm static balance, and dynamic balance.
+  
+- Movement Training: to develop good movement patterns without compromissing postural or joint stability. Five primary movement: bend-and-lift movements, single-leg movement, pushing movement, pulling movement, rotational movement. Emphasize the proper sequencing of movement and control of COG.
+  
+- Load/speed Training: to create a need for increased force production with external loads to movement; should integrate Functional Training exercise of the five primary movement. The golas include muscular strength, muscular endurance, muscle hypertrophy, and positive changes in body composition. 
