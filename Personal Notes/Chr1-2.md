@@ -30,7 +30,7 @@ Building rapport is a critical component; ABC approach: ask open-ended questions
 ![IMG_0992](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/a93fa7a3-0361-4d9c-ab47-83f6e52258fb)
 
 
-1. Cardiorespiratory Training: 
+## Cardiorespiratory Training: 
    
 ![IMG_0993](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/dceac673-be9b-4090-a94a-9be897447a19)
 
@@ -41,7 +41,7 @@ Building rapport is a critical component; ABC approach: ask open-ended questions
 - Performance Training: for individuals with goals that are focused on success in endurance sports and events.
   
 
-2. Muscular Training: 
+## Muscular Training: 
    
 ![IMG_0994](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/bdea8629-9795-4d0f-b8eb-07a41c78f684)
 
