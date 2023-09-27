@@ -6,7 +6,9 @@
 
 - Client privacy: Health Insurance Portability and Accountability Act (HIPAA) - the use and disclosure of individual's protected health info.
 
-- Referral. 
+- Referral.
+  
+![IMG_0995](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/776a92b9-51ec-49e4-8cd2-26126c392f14)
 
 ![IMG_0990](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/369651f0-b715-4067-b129-7f51f4009f7d)
 
