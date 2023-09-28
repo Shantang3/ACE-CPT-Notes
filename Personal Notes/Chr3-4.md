@@ -4,6 +4,8 @@
 
 ### Health Belief Model
 
+![IMG_0996](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/f05b2d0f-2e52-4a9d-a16e-372b0877cd70)
+
 People's ideas and underlying emotions about illness, prevention, and treatments may influence health behaviors and decisions about changing (or not charging) health behaviors.
 
 - The belief in the health threat: perceived susceptibility to an illness (the likelihood), perceived seriousness (perception from health screen etc.).
@@ -13,27 +15,36 @@ People's ideas and underlying emotions about illness, prevention, and treatments
 
 ### Self-determination Theory
 
-Two basic types of motivation: autonomous motivation ("I want", intrinsic motivation as the highest level); controlled motivation ("I need" by pressure from external forces). 
-Include autonomy, competence, and relatedness to create an environment that support intrinsic motivation
+Two basic types of motivation: autonomous motivation ("I want", intrinsic motivation as the highest level); and controlled motivation ("I need" by pressure from external forces). 
+Ryan (2000) identified the needs as autonomy, competence, and relatedness to create an environment that supports intrinsic motivation. 
 
 The importance of motivational climate in the exercise setting: task-involving (eg. by emphasizing process goals) is better than egO-involving (eg. by emphasizing outcome goals) climates. 
 
-Don't forget social-support strategies.
+Don't forget social support strategies.
 
 
 ### Transtheoretical Model of Behavior Change (TTM)
 
+
 Refers to the individual's readiness for change, also called as states-of-change model:
 
-1. Stages of changes: per contemplation, contemplation, preparation, action, maintenance.
+1. Stages of changes: pre-contemplation (physically inactive and not even intending to begin due to no relevance or even discount of being physically active), contemplation (still inactive but are thinking about becoming more active in the near future; start to consider the importance but ambivalence exists), preparation (engagement in physical activity but can be inconsistent), action (engage in regular physical activity but less than 6 months), maintenance.
 
-2. Processes of changes:
+![IMG_0997](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/8fedf835-16c2-4c3a-a33d-4bae2d384026)
+![IMG_0998](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/272a8f99-b64e-45ef-a84d-70d5a1bbf0b0)
 
-ABC approach: Ask powerful open-ended questions; Break down barriers; Collaborate.
+3. Processes of changes:
+
+ABC approach: Ask powerful open-ended questions; Break down barriers; and Collaborate.
+
+![IMG_0999](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/e8772327-a8b9-4912-8438-8af47219e7c5)
 
 3. Self-efficacy: 
 
-4. Decisional Balance: evaluation of pros and cons of adopting and/or maintaining an activity program. 
+4. Decisional Balance: evaluation of pros and cons of adopting and/or maintaining an activity program.
+
+![IMG_1001](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/ce6cb278-e667-42bc-abcc-3b9da4cfd58c)
+
 
 
 ## Principles of Behavior Change
@@ -43,6 +54,8 @@ ABC approach: Ask powerful open-ended questions; Break down barriers; Collaborat
 The process by which behaviors are influenced by their consequences (antecedents and consequences). The behavior chains and positive reinforcement.
 
 ### Cognitions and Behavior
+
+![IMG_1002](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/ca9df68e-1357-4003-8131-0658e30eff02)
 
 Replacing irrational thoughts, including jumping to conclusions, all-or-nothing thinking, overgeneralizing, labeling, personalization and blame, magnification, and minimization. 
 
