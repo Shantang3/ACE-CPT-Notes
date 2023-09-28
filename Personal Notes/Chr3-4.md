@@ -49,8 +49,6 @@ ABC approach: Ask powerful open-ended questions; Break down barriers; and Collab
 
 In a real scenario: address the situation before it happens; collaborate on ways to stay active and other things such as dietary choices; enhance social support (e.g. contact out of the session).
 
-Time as a potential barrier: encourage to change the perception through goal setting, time management, and prioritizing. Furthermore, PT should consider implementing time-efficient exercise sessions and collaborating about opportunities to be physically active throughout the day.
-
 Understand WILLPOWER - the ability to ignore temporary pleasure or discomfort to pursue a longer-term goal. It's a mind-body response, not a virtue. Note that willpower is inherently limited (Hagger 2010) - self-control depletes willpower in much the same way that exercise temporarily depletes physical power; thus planning in advance for moments of weak self-control is most likely to enhance willpower. 
 
 
@@ -82,7 +80,9 @@ Three categories of potential determinants for physical activity:
 
 Use stimulus control to make adjustments to the environment to increase the likelihood of healthy behaviors. E.g. gym between home and work, keeping a gym bag in the car, having workout clothes laid out for morning exercise, etc. 
 
-To promote social connectedness: find an enjoyable and reliable exercise partner, ask friends and family to be encouraging and positive, set up fn "contest", and join a club. 
+Time as a potential barrier: encourage to change the perception through goal setting, time management, and prioritizing. Furthermore, PT should consider implementing time-efficient exercise sessions and collaborating about opportunities to be physically active throughout the day.
+
+To promote social connectedness: find an enjoyable and reliable exercise partner, ask friends and family to be encouraging and positive, set up a "contest", and join a club. 
 
 3. Physical-activity factors: intensity, injury,
 
@@ -91,7 +91,7 @@ To promote social connectedness: find an enjoyable and reliable exercise partner
 
 # Chr4: Effective Communication, Goal Setting, and Teaching Techniques
 
-This chapter mainly discussed the four stages of the client-personal trainer relationship
+This chapter mainly discussed the four stages of the client-personal trainer relationship: rapport, investigation, planning, action. 
 
 ## Rapport Stage
 
@@ -110,14 +110,21 @@ Built upon empathy and rapport, the personal trainer sets the scene for establis
 
 ## Investigation Stage.
 
-Rapport continues to build during this stage, with more personal information, like medical concerns, fitness-assessment results, body weight, and exercise history.
+Rapport continues to build during this stage, with more personal information, like medical concerns, fitness assessment results, body weight, and exercise history.
 
-- Gathing information: lifestyle and health history questionnaire.
+- Gathing information: lifestyle and health history questionnaire; identify readiness for change
 
 - Active listening
 
-- Motivational interviewing: use skills such as sustain talk, ABC approach, OARS (affirmation, reflective, listening and summarizing), righting reflex...
+- Motivational interviewing: use skills (such as sustain talk, importance ruler on a scale of 0 to 10), ABC approach, OARS (affirmation, reflective, listening and summarizing), and righting reflex...
 The spirit of motivational interviewing is composed of collaboration, acceptance, compassion, and evocation.
+
+![IMG_1004](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/1d27038f-73cd-4c2f-9653-96ecbd19246e)
+
+![IMG_1005](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/05f9ad7d-e2e6-4366-9cc7-1d2ae0afd53c)
+
+![IMG_1006](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/14034b13-b604-4db9-a019-d89b368881f7)
+
 
 - Respond to difficult disclosure; follow referral procedures if necessary. 
 
@@ -130,11 +137,16 @@ The relationship should be viewed as a give-and-take opportunity in terms of com
 
 SMART goals: specific, measurable, attainable, relevant, and time-bound.
 
+![IMG_1007](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/1569254d-4017-4149-b969-c20432a28486)
+
 - Generating ideas and discussing options.
 
 - Formulating a plan
 
 - Evaluating the exercise program.
+
+![IMG_1008](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/80bb258a-1eb9-40d5-8711-e4b983c35d65)
+
 
 
 ## Action Stages
@@ -144,3 +156,5 @@ The program is a combination of exercises completed by clients on their own and 
 - Self-monitoring approaches
 
 - Effective teaching techniques: pay attention to stages of learning (associative vs. autonomous), learning styles, "tell, show, do", providing feedback, modeling
+
+
