@@ -108,15 +108,15 @@ Built upon empathy and rapport, the personal trainer sets the scene for establis
 - Dealing with difficult clients
 
 
-## Investigation Stage.
+## Investigation Stage
 
 Rapport continues to build during this stage, with more personal information, like medical concerns, fitness assessment results, body weight, and exercise history.
 
-- Gathing information: lifestyle and health history questionnaire; identify readiness for change
+- Gathing information: lifestyle and health history questionnaire; identify readiness for change; "what are you likes and dislikes when it comes to activity?"
 
-- Active listening
+- Active listening: empathetically listen while maintaining an open mind and be relevant 
 
-- Motivational interviewing: use skills (such as sustain talk, importance ruler on a scale of 0 to 10), ABC approach, OARS (affirmation, reflective, listening and summarizing), and righting reflex...
+- Motivational interviewing: employ a guiding style of communication with encouragement, support, and insists in the process of change; Use skills (such as sustain talk, importance ruler on a scale of 0 to 10), ABC approach, OARS (affirmation, reflection, listening, and summarizing), and righting reflex...
 The spirit of motivational interviewing is composed of collaboration, acceptance, compassion, and evocation.
 
 ![IMG_1004](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/1d27038f-73cd-4c2f-9653-96ecbd19246e)
@@ -125,19 +125,25 @@ The spirit of motivational interviewing is composed of collaboration, acceptance
 
 ![IMG_1006](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/14034b13-b604-4db9-a019-d89b368881f7)
 
+One example: 
 
-- Respond to difficult disclosure; follow referral procedures if necessary. 
+![IMG_1011](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/19c549be-4e84-41e0-91d9-c7f85d1f485d)
+
+
+- Respond to difficult disclosure: often short response is all, ask if any change of training is needed; follow referral procedures if necessary. 
 
 
 ## Planning Stage
 
-The relationship should be viewed as a give-and-take opportunity in terms of communication:
+The relationship should be viewed as a give-and-take opportunity in terms of communication. PT should discuss their training method early, and explain the purpose of any physical contact, and ask for permission. 
 
 - Setting goals: avoid too many goals or negative goals; set short- and long-term goals as well as performance goals; include clients in the process; revisit goals on a regular basis.
 
 SMART goals: specific, measurable, attainable, relevant, and time-bound.
 
 ![IMG_1007](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/1569254d-4017-4149-b969-c20432a28486)
+
+E.g. I want to exercise more > I will begin exercising by walking for 30 min at lunch on 3 or more days of the week.  I want to be healthier > I will take walk breaks for every 1 hour I sit at my desk on 5 days of the week. I want to "tune-up" > I will lift weights 3 days a week and practice yoga 2 days a week. 
 
 - Generating ideas and discussing options.
 
@@ -153,8 +159,13 @@ SMART goals: specific, measurable, attainable, relevant, and time-bound.
 
 The program is a combination of exercises completed by clients on their own and exercises performed with the personal trainer instructing and supervising.
 
-- Self-monitoring approaches
+- Self-monitoring approaches: most effective to develop adherence; e.g. keeping an exercise journal.
 
-- Effective teaching techniques: pay attention to stages of learning (associative vs. autonomous), learning styles, "tell, show, do", providing feedback, modeling
+- Effective teaching techniques: pay attention to stages of learning (associative - basic okay and ready for more specific feedback to refine the skills vs. autonomous), learning styles (a kinesthetic learner may prefer hands-on approaches and "feeling" movement), "tell, show, do" (at the cognitive stage of learning), providing feedback (positively rephrasing), and modeling.
+  
+![IMG_1010](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/ac07b689-0bdb-4a8e-884f-7318563bda67)
+
+
+
 
 
