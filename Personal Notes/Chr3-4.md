@@ -6,11 +6,11 @@
 
 ![IMG_0996](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/f05b2d0f-2e52-4a9d-a16e-372b0877cd70)
 
-People's ideas and underlying emotions about illness, prevention, and treatments may influence health behaviors and decisions about changing (or not charging) health behaviors.
+People's ideas and underlying emotions about illness, prevention, and treatments may influence health behaviors and decisions about changing (or not charging) health behaviors. At least 4 variables influence a person's decision to change:
 
 - The belief in the health threat: perceived susceptibility to an illness (the likelihood), perceived seriousness (perception from health screen etc.).
 
-- The perceptions of the health behavior: benefits and barriers. 
+- The perceptions/beliefs of the health behavior: benefits and barriers. 
 
 
 ### Self-determination Theory
@@ -39,11 +39,19 @@ ABC approach: Ask powerful open-ended questions; Break down barriers; and Collab
 
 ![IMG_0999](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/e8772327-a8b9-4912-8438-8af47219e7c5)
 
-3. Self-efficacy: 
+3. Self-efficacy: strongly related to program adoption and maintenance. There are 6 sources of it: past performance experience, vicarious experience, verbal persuasion, physiological state appraisals, emotional state and mood appraisals, and/or imaginal experiences. 
 
 4. Decisional Balance: evaluation of pros and cons of adopting and/or maintaining an activity program.
 
 ![IMG_1001](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/ce6cb278-e667-42bc-abcc-3b9da4cfd58c)
+
+5. Lapse and Relapse: can occur at any stage of TTM.
+
+In a real scenario: address the situation before it happens; collaborate on ways to stay active and other things such as dietary choices; enhance social support (e.g. contact out of the session).
+
+Time as a potential barrier: encourage to change the perception through goal setting, time management, and prioritizing. Furthermore, PT should consider implementing time-efficient exercise sessions and collaborating about opportunities to be physically active throughout the day.
+
+Understand WILLPOWER - the ability to ignore temporary pleasure or discomfort to pursue a longer-term goal. It's a mind-body response, not a virtue. Note that willpower is inherently limited (Hagger 2010) - self-control depletes willpower in much the same way that exercise temporarily depletes physical power; thus planning in advance for moments of weak self-control is most likely to enhance willpower. 
 
 
 
@@ -51,13 +59,14 @@ ABC approach: Ask powerful open-ended questions; Break down barriers; and Collab
 
 ### Operant condition
 
-The process by which behaviors are influenced by their consequences (antecedents and consequences). The behavior chains and positive reinforcement.
+The process by which behaviors are influenced by their consequences (antecedents and consequences). The behavior chains and positive reinforcement (Positive reinforcement is best for PT to use to ensure that a desired client behavior will reoccur in the future).
+ 
 
 ### Cognitions and Behavior
 
 ![IMG_1002](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/ca9df68e-1357-4003-8131-0658e30eff02)
 
-Replacing irrational thoughts, including jumping to conclusions, all-or-nothing thinking, overgeneralizing, labeling, personalization and blame, magnification, and minimization. 
+Replacing irrational thoughts, including jumping to conclusions, all-or-nothing thinking, overgeneralizing, labeling, personalization and blame, magnification, and minimization; with healthier, more productive, and factual thinking. 
 
 Goal setting and self-monitoring: SMART goal guidelines (specific, measurable, attainable, relevant, and time-bound). 
 
@@ -71,7 +80,12 @@ Three categories of potential determinants for physical activity:
 
 2. Environmental factors: access to facilities, time, and social support.
 
-3. Physical-activity factors: intensity, injury, 
+Use stimulus control to make adjustments to the environment to increase the likelihood of healthy behaviors. E.g. gym between home and work, keeping a gym bag in the car, having workout clothes laid out for morning exercise, etc. 
+
+To promote social connectedness: find an enjoyable and reliable exercise partner, ask friends and family to be encouraging and positive, set up fn "contest", and join a club. 
+
+3. Physical-activity factors: intensity, injury,
+
 
 
 
