@@ -50,14 +50,32 @@ Outside the scope of personal trainer's practice includes practicing medical nut
 
 Within: recommend healthy eating patterns (Dietary Guidelines), recommend healthy food, ask questions, encourage food journaling
 
+![IMG_1021](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/704d4390-35e1-4cd3-b462-881232e69666)
 
 ## Dietary Guidelines
 
-The general protein recommendation is 0.8-1 grams/kg (0.5 grams/lb) body weight per day 
+1. follow a healthy dietary pattern at every life stage: veggies of all types, fruits, grains (> half is whole), dairy, protein food, and oils.
+
+2.  Customize and enjoy food and beverage choices to reflect personal preferences, cultural traditions, and budgetary considerations.
+
+3.  Focus on meeting good food group needs with nutrient-dense foods and beverages, and stay within calorie limit. 
+
+4. Limit foods and beverages higher in added sugars, saturated fat, and sodium, and limit alcoholic beverages.
+
+![IMG_1022](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/f286fa72-b904-4b67-aef6-02a962de4a7e)
+
+Some facts: The general protein recommendation is 0.8-1 grams/kg (0.5 grams/lb) body weight per day. 
+
+Any juice that is less than 100% fruit is considered a "sugary drink".
+
+A high intake of saturated fat, as well as artificial trans fats, is associated with increased total and LDL cholesterol.
+
+![IMG_1023](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/9ae744e1-d8a3-4399-9be2-fb7d8c5c4415)
+
 
 ## Food Labels
 
-TODO add figure
+![IMG_1024](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/6f41aa24-7c04-4adf-b390-eeaba35536b4)
 
 - Regulated term: allergen statement, health claims, low sodium, reduced sodium, low fat, reduced fat. excellent source of fiber, fortification (added nutrient that is not contained naturally ) vs. enrichment (added back nutrient that is lost during processing).  
 
