@@ -79,6 +79,10 @@ A high intake of saturated fat, as well as artificial trans fats, is associated 
 
 ![IMG_1024](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/6f41aa24-7c04-4adf-b390-eeaba35536b4)
 
+Some calculation:
+
+![IMG_1026](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/301c657d-15ec-4769-8c1f-0df50e4bb25b)
+
 - Regulated term: allergen statement, health claims, low sodium, reduced sodium, low fat, reduced fat. excellent source of fiber, fortification (added nutrient that is not contained naturally ) vs. enrichment (added back nutrient that is lost during processing).  
 
 - Unregulated terms: healthy, natural, nutritious, low-carb, contains.
@@ -104,6 +108,8 @@ Decrease intake of saturated trans fat (solid fats) while increasing intake of u
 Plan meals for the week (fresh food early in the week and frozen/canned foods later); create a shopping list.
 
 Don't shop when hungry, stick with the plan.
+
+To help educate a client, the following is appropriate and within the scope of practice:: host grocery shopping tours, hold cooking demonstrations (meal[prep ideas), share evidence-based dietary guidelines, share MyPlate recommendations, share info about the types of foods to be included in a balanced daily diet, teach a client about the principles of healthy nutrient and food preparation.
 
 
 ## Fueling/Hydration before, during, and after exercise
