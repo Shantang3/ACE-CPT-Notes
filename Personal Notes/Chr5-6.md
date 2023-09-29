@@ -1,14 +1,18 @@
 # Chr5: Preparticipation Health Screening
 
+An exercise preparticipation health screen MUST be performed on ALL new participants, regardless of age, upon entering a facility that offers exercise equipment or service. The ACSM preparticipation guidelines are designed to remove any unnecessary barriers to becoming more physically active. 
+
 ## Inherent health risks and exercise
 
 ## Preparticipation Health Screening
 
-ACSM preparticipation guidelines:
+ACSM preparticipation guidelines, mainly based on the three factors of current level of physical activity, diagnosed CV/metabolic/renal disease and/or presence of signs or symptoms, and the desired exercise intensity. The process is designed to identify three categories of those who should receive medical clearance before initiating the program or increasing exercise; those who have clinically significant diseases and may benefit from exercise; and those who medical conditions may require exclusion from the program. 
 
-- For those who do not exercise regularly/;
+Note that identification of the signs/symptoms may be within the scope of practice, interpretation of those same signs/symptoms should be made only by qualified healthcare professionals. 
 
-![IMG_1015](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/00b4d960-8582-429a-b4e0-810e0d69aa50)
+- For those who do not exercise regularly/:
+
+![IMG_1015](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/00b4d960-8582-429a-b4e0-810e0d69aa50)d
 
 - For regular exercisers:
 
@@ -30,6 +34,12 @@ For medical info, family history, nutrition,
 ## Medications
 
 ![IMG_1020](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/df2d38d3-e8b8-47c6-b62b-49cdf2403881)
+
+- Beta-blockers block beta-adrenergic receptors and limit sympathetic nervous system stimulation (block the effect of catecholamines, reduction in heart rate). The best way to monitor exercise intensity for who are on a beta block is to use rating of perceived exertion or the talk test versus the target heart rate.
+
+- Calcium channel blockers lower blood pressure by preventing calcium-dependent contraction of the smooth muscles in the arteries.
+
+- Diuretics are usually prescribed for high blood pressure by increasing the excretion of water and electrolytes through the kidneys. 
 
 
 
