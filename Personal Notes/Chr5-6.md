@@ -79,6 +79,8 @@ A high intake of saturated fat, as well as artificial trans fats, is associated 
 
 ![IMG_1024](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/6f41aa24-7c04-4adf-b390-eeaba35536b4)
 
+Aspects to be considered; serving size and serving per container, total calories, calories from fat/protein/carb, sugars (naturally occurring and added), sodium, fiber, trans fat, and ingredient list. 
+
 Some calculation:
 
 ![IMG_1026](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/301c657d-15ec-4769-8c1f-0df50e4bb25b)
@@ -116,15 +118,15 @@ To help educate a client, the following is appropriate and within the scope of p
 
 ![IMG_1025](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/49c10e3b-4902-4eac-8236-862492824d42)
 
-prevent a greater than 2% loss in body weight during exercise. Refueling should begin within 30 mins after exercise.
+prevent a greater than 2% loss in body weight during exercise. Refueling should begin within 30 minutes after exercise.
 
 On the day of an event, ab athletes should aim to eat a meal 4-6 hours before the event.
 
 
 ## Nutritional supplements
 
-Note that older, female, and malitary tend to take supplements more than others. 
+Note that older, female, and military tend to take supplements more than others. 
 
-"ACE strongly advises against recommending supplementation and especially advise against selling dietary supplements as a personal trainer. "
+"ACE strongly advises against recommending supplementation and especially advises against selling dietary supplements as a personal trainer. "
 
 
