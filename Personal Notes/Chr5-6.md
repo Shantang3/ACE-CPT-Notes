@@ -46,9 +46,11 @@ For medical info, family history, nutrition,
 
 # Chr6: Nutrition for Health and Fitness
 
-Outside the scope of personal trainer's practice includes practicing medical nutrition therapy (MNT), diagnosing nutrition-related conditions, prescribing a diet, creating meal plans
+Outside the scope of a PT's practice includes practicing medical nutrition therapy (MNT), diagnosing nutrition-related conditions, prescribing a diet, and creating meal plans. 
 
-Within: recommend healthy eating patterns (Dietary Guidelines), recommend healthy food, ask questions, encourage food journaling
+Within: share general nonmedical nutrition info, recommend healthy eating patterns (Dietary Guidelines), recommend healthy food, ask questions, and encourage food journaling. Nutrient topics include principles of healthy nutrition and food preparation; food to be included in the balanced daily diet, essential daily nutrition, action of nutrients to the body, effect of deficiencies or excesses of nutrients, How nutrient requirements vary through the life cycle, principles of pre and post-workout nutrition and hydration, info about nutrients contained in foods or supplements. 
+
+Ultimately, a PT's scope is determined by state policies and regulations, education and experience, and competencies and skills. 
 
 ![IMG_1021](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/704d4390-35e1-4cd3-b462-881232e69666)
 
@@ -91,9 +93,10 @@ A high intake of saturated fat, as well as artificial trans fats, is associated 
 
 ## Food Safety and selection
 
-Healthier swaps: granola to nuts, fruit bars to fruit, boxed rice to bulk rice, multi-grain bread to 100% whole wheat bread.
-Decrease intake of saturated trans fat (solid fats) while increasing intake of unsaturated fats (oils).
-Limit total added sugar to less than 10$ of total calories (most simple: do NOT drink calories)
+- Healthier swaps: granola to nuts, fruit bars to fruit, boxed rice to bulk rice, multi-grain bread to 100% whole wheat bread.
+Decrease intake of saturated trans fat (solid fats) while increasing intake of unsaturated fats (oils). Limit total added sugar to less than 10% of total calories (most simple: do NOT drink calories).
+
+- To reduce the risk of foodborne illness: check the produce for bruises and feel and smell for ripeness; look for a "sell-by" date for bread, a "use-by" date on packaged food, an "expiration date" on baking powder, and a "packaged date" on canned foods; separate fish and poultry from other products by wrapping separately; pick up refrigerated or frozen foods last. 
 
 
 ## Practical considerations
@@ -103,11 +106,13 @@ Plan meals for the week (fresh food early in the week and frozen/canned foods la
 Don't shop when hungry, stick with the plan.
 
 
-## Fueling before, during, and after exercise
+## Fueling/Hydration before, during, and after exercise
 
-## Fluid and hydration before, during, and after exercise.
+![IMG_1025](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/49c10e3b-4902-4eac-8236-862492824d42)
 
-prevent a greater than 2% loss in body weight during exercise
+prevent a greater than 2% loss in body weight during exercise. Refueling should begin within 30 mins after exercise.
+
+On the day of an event, ab athletes should aim to eat a meal 4-6 hours before the event.
 
 
 ## Nutritional supplements
