@@ -6,9 +6,17 @@
 
 ACSM preparticipation guidelines:
 
-- For those who do not exercise regularly,
+- For those who do not exercise regularly/;
+
+![IMG_1015](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/00b4d960-8582-429a-b4e0-810e0d69aa50)
 
 - For regular exercisers:
+
+![IMG_1016](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/db4130f8-6982-4ce7-bfc3-7d08e3528489)
+
+- For professionals:
+
+![IMG_1017](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/f77e0ece-c663-41f5-ad69-80fecf2aff69)
 
 - For self-guided screening: use Physical Activity Readiness Questionnaire for Everyone (PAR-Q+)
 
@@ -16,9 +24,13 @@ ACSM preparticipation guidelines:
 
 For medical info, family history, nutrition, 
 
+![IMG_1018](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/60f28dce-af73-4632-8b7f-00e4f9a3b599)
+![IMG_1019](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/6f39603a-0c9d-402b-ac89-95f3d642bc53)
+
 ## Medications
 
-todo: add table 
+![IMG_1020](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/df2d38d3-e8b8-47c6-b62b-49cdf2403881)
+
 
 
 
