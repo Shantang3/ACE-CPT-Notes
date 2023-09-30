@@ -48,15 +48,17 @@ For medical info, family history, nutrition,
 
 Outside the scope of a PT's practice includes practicing medical nutrition therapy (MNT), diagnosing nutrition-related conditions, prescribing a diet, and creating meal plans. 
 
-Within: share general nonmedical nutrition info, recommend healthy eating patterns (Dietary Guidelines), recommend healthy food, ask questions, and encourage food journaling. Nutrient topics include principles of healthy nutrition and food preparation; food to be included in the balanced daily diet, essential daily nutrition, action of nutrients to the body, effect of deficiencies or excesses of nutrients, How nutrient requirements vary through the life cycle, principles of pre and post-workout nutrition and hydration, info about nutrients contained in foods or supplements. 
+Within: share general nonmedical nutrition info, recommend healthy eating patterns (Dietary Guidelines for Americans, updated every 5 years), recommend healthy food, ask questions, and encourage food journaling. Nutrient topics include principles of healthy nutrition and food preparation; food to be included in the balanced daily diet, essential daily nutrition, action of nutrients to the body, effect of deficiencies or excesses of nutrients, How nutrient requirements vary through the life cycle, principles of pre and post-workout nutrition and hydration, info about nutrients contained in foods or supplements. 
 
 Ultimately, a PT's scope is determined by state policies and regulations, education and experience, and competencies and skills. 
 
 ![IMG_1021](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/704d4390-35e1-4cd3-b462-881232e69666)
 
+The level of intake of a nutrient that is adequate to meet the known needs of practically all healthy persons is referred to as the Recommended Dietary Allowance (RDA).
+
 ## Dietary Guidelines
 
-1. follow a healthy dietary pattern at every life stage: veggies of all types, fruits, grains (> half is whole), dairy, protein food, and oils.
+1. follow a healthy dietary pattern at every life stage: veggies of all types (dark green veggies are highest in Vitamin K), fruits, grains (> half is whole, as whole grains contain 16 grams of whole grain per ounce-equivalent), dairy, protein food, and oils.
 
 2.  Customize and enjoy food and beverage choices to reflect personal preferences, cultural traditions, and budgetary considerations.
 
@@ -72,6 +74,8 @@ Any juice that is less than 100% fruit is considered a "sugary drink".
 
 A high intake of saturated fat, as well as artificial trans fats, is associated with increased total and LDL cholesterol.
 
+Individuals with hypertension are advised to follow the DASH (Dietary Approaches to Stop Hypertension) eating plan: low in saturated fat, cholesterol, and total fat. The staples are whole grains, fruits, veggies, and beans, peas, and lentils. 
+
 ![IMG_1023](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/9ae744e1-d8a3-4399-9be2-fb7d8c5c4415)
 
 
@@ -85,7 +89,7 @@ Some calculation:
 
 ![IMG_1026](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/301c657d-15ec-4769-8c1f-0df50e4bb25b)
 
-- Regulated term: allergen statement, health claims, low sodium, reduced sodium, low fat, reduced fat. excellent source of fiber, fortification (added nutrient that is not contained naturally ) vs. enrichment (added back nutrient that is lost during processing).  
+- Regulated term: allergen statement, health claims ("fiber maintains bowel regularity"), low sodium, reduced sodium, low fat, reduced fat. excellent source of fiber, fortification (added nutrient that is not contained naturally ) vs. enrichment (added back nutrient that is lost during processing).  
 
 - Unregulated terms: healthy, natural, nutritious, low-carb, contains.
   Eg. "natural flavor": an ingredient that contains naturally-derived chemicals, but could be comprised of 2-100 ingredients in itself;
