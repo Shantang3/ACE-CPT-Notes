@@ -4,11 +4,15 @@
 
 - Skeletal system: 206 bones (compact or cortical bone - dense outer 75%, spongy or trabecular bone - inner structure).
 
+![IMG_1049](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/1f3fee88-b08a-400b-bb4e-edf7a03d44cf)
+
 Axial skeleton (74) - central nervous system,  Appendicular skeleton (remaining 126), articulations - synovial joint (flexion, extension, abduction, adduction)
 
 - Nervous system: central nervous system (CNS) and peripheral nervous system (PNS, somatic and autonomic)
 
 - Muscular System: skeletal muscle, smooth muscle, and cardiac muscle.
+
+![IMG_1058](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/d3eabba2-1c88-4744-ada4-bff94891a615)
 
 ! Table 9.4 to 9.11: Major muscles at the ankle, foot, knee, hip, spine, shoulder girdle, shoulder, elbow, radioulnar joints, wrist. 
 
