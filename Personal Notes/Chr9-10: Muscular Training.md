@@ -8,7 +8,7 @@
 
 Axial skeleton (74) - central nervous system,  Appendicular skeleton (remaining 126), articulations - synovial joint (The most common type of joint, freely movable; 4 angular movements include flexion, extension, abduction, adduction)
 
-The planes of motion: sagittal - divides the body into right and left halves; transverse - divides the body into superior and inferior halves; frontal - divides the body into anterior and posterior halves.
+The planes of motion: sagittal - divides the body into right and left halves; transverse - divides the body into superior and inferior halves; frontal - divides the body into anterior and posterior halves. Flexion occurs in the sagittal plane of motion. 
 
 ![IMG_1051](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/36ebc1bb-dc65-442a-87ac-e6be32733585)
 
@@ -22,13 +22,13 @@ The parasympathetic nervous system aids in controlling normal functions when the
 
 ! Table 9.4 to 9.11: Major muscles at the ankle, foot, knee, hip, spine, shoulder girdle, shoulder, elbow, radioulnar joints, wrist. 
 
-Muscle function and muscle-fiber arrangement: longitudinal, unipennate, bipennate, multipennate. 
+Muscle function and muscle-fiber arrangement: longitudinal, unipennate, bipennate, multipennate. One propertythat all muscle tissue has in common is to contract and develop tension. 
 
 Ddecomposite: muscle >> bundles of muscle fibers surrounded by perimysium >> muscle fiber, endomysium - connective tissue surrounding individual muscle fibers)
 
 ![IMG_1065 copy](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/627fbe0b-640b-4419-8c7e-7915d4231129)
 
-Slow-twitch muscle fiber: type 1, contains a relatively large amount of mitochondria and higher concentrations of myoglobin >> resistant to fatigue and capable of sustaining aerobic metabolism.
+Slow-twitch muscle fiber: type 1, contains a relatively large amount of mitochondria and higher concentrations of myoglobin >> resistant to fatigue and capable of sustaining aerobic metabolism. The contracts more slowly and create lower force outputs.
 
 Fast-twitch muscle fiber (type 2): TypeIIx or fast-glycolytic fibers >> contain a relatively small amount of mitochondria and limited aerobic metabolism; however possess a high number of glycolytic enzymes; TypeIIa or intermediate/fast oxidative glycolytic fibers >> speed, fatigue resistance, and force-production capabilities, for strength and power activities.
 
@@ -114,6 +114,8 @@ Volumn = sets * reps * weight load (for load-volume calculation). Typically lowe
 4. developing greater muscular strength: sets 2-6, repetitions <=6, rest interval: 2-5min, intensity: >85% of 1RM (one-repetition max)
 
 5. a powerlifter who performs single-effort events: sets 3-5, repetitions 1-2, rest interval: 2-5min, intensity: 80-90% of 1RM (one-repetition max)
+
+6. A client who wants to lose weight, but a bit apprehensive about muscular training of "getting big": explain the average adults muscle-tissue loss of 5 lb per decade, and how resistance training can help her restore list muscle and raising resting metablism.  
 
 
 
