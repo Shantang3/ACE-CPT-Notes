@@ -4,21 +4,19 @@
 
 - Skeletal system: 206 bones (compact or cortical bone - dense outer 75%, spongy or trabecular bone - inner structure).
 
-Fig 9-1, 9-2
-
 Axial skeleton (74) - central nervous system,  Appendicular skeleton (remaining 126), articulations - synovial joint (flexion, extension, abduction, adduction)
 
 - Nervous system: central nervous system (CNS) and peripheral nervous system (PNS, somatic and autonomic)
 
 - Muscular System: skeletal muscle, smooth muscle, and cardiac muscle.
 
-Table 9.4 to 9.11: Major muscles at the ankle, foot, knee, hip, spine, shoulder girdle, shoulder, elbow, radioulnar joints, wrist. 
+! Table 9.4 to 9.11: Major muscles at the ankle, foot, knee, hip, spine, shoulder girdle, shoulder, elbow, radioulnar joints, wrist. 
 
 Muscle function and muscle-fiber arrangement: longitudinal, unipennate, bipennate, multipennate. 
 
 Ddecomposite: muscle >> bundles of muscle fibers surrounded by perimysium >> muscle fiber, endomysium - connective tissue surrounding individual muscle fibers)
 
-Slow-twitch muscle fiber: type 1, contain a relatively large amount of mitochondria and higher concentrations of myoglobin >> resistant to fatigue and capable of sustaining aerobic metabolism.
+Slow-twitch muscle fiber: type 1, contains a relatively large amount of mitochondria and higher concentrations of myoglobin >> resistant to fatigue and capable of sustaining aerobic metabolism.
 
 Fast-twitch muscle fiber (type 2): TypeIIx or fast-glycolytic fibers >> contain a relatively small amount of mitochondria and limited aerobic metabolism; however possess a high number of glycolytic enzymes; TypeIIa or intermediate/fast oxidative glycolytic fibers >> speed, fatigue resistance, and force-production capabilities, for strength and power activities.
 
@@ -30,11 +28,15 @@ Fast-twitch muscle fiber (type 2): TypeIIx or fast-glycolytic fibers >> contain 
 
 ## Human Motion Terminology
 
+Synergist muscles assist the agonist in causing a desired action. Co-contraction happens when the agonist and antagonist contract together to foster joint stability
+
 - Muscular action: static (isometric) action - balance and stabilization training; concentric (shortening) action; eccentric (lengthening action).
 
 - Kinetic chain movement: closed-kinetic-chain exercises >> end of the chain is fixed such as squat, emphasize compression of joints; Open-kinetic-chain exercises >> end of the chain is free such as seated leg extension, involve more shearing forces at the joint.
 
 - Mobility and stability: mobility - ankle, hip, thoracic spine, glenohumeral; stability - foot, knee, lumber pine, scapulothoracic.
+
+![IMG_1066](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/9ecf3775-e588-40fb-a5d9-5b4e6979b1ce)
 
 - Balance and alignment: Center of gravity (COG), line of gravity, and base of support (BOS). 
 
@@ -49,7 +51,7 @@ Increased physical capacity, enhanced metabolic function, reduced injury risk, a
 
 Two principal long-term physiological adaptations: increasing muscular strength (motor learning) and muscle size (hypertrophy; such as myofibrillar hypertrophy - increase in the number of myofibrils or contractile proteins).
 
-Factors that influence muscular strength and hypertrophy: hormone levels, sex, age, muscle fiber type (slow-switch fibers activated at lower force levels and fast-switch fibers activated at higher forces levels, while typeII experience greater size increase), muscle length, limb length, tendon insertion point.
+Factors that influence muscular strength and hypertrophy: hormone levels, sex, age, muscle fiber type (slow-switch fibers activated at lower force levels and fast-switch fibers activated at higher force levels, while typeII experience greater size increase), muscle length, limb length, tendon insertion point.
 
 
 ## Muscular Training Principles
@@ -79,7 +81,7 @@ Be aware of delayed-onset muscle soreness (DOMS): exceptionally challenging trai
 
 Volumn = sets * reps * weight load (for load-volume calculation). Typically lower for competitive powerlifters as they focus on improving muscle's ability to max recruit fibers to generate higher amounts of force; competitive bodybuilders. on the other hand, perform higher-volume workouts.  
 
-Table 9.12. 
+![IMG_1071](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/a1b904ee-1697-41a1-bb3f-bcfc75821615)
 
 - Training intensity: % of max resistance (higher intensity training sessions require lower exercise volume). Most periodization models for muscular training begin with high-volume/low-intensity workouts, progress to moderate-volume/moderate-intensity workouts and conclude with lower-volume/higher-intensity workouts. 
 
