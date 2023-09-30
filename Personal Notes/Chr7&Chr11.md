@@ -1,7 +1,5 @@
 # Chr7: Resting Assessments and Anthropometric Measurements
 
-![IMG_1027](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/a18e11cf-001f-4322-bc57-26ba6870f8c6)
-
 ## Sequencing Assessment
 
 - Resting vital signs: heart rate (HR), blood pressure (BP), height, and weight.
@@ -20,7 +18,7 @@
 
 - Skill-related parameters (agility, coordination, power, reactivity, and speed) (Chr10).
 
-TODO: add table 7.1
+![IMG_1027](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/b06829d4-0b1c-485c-8331-89b7ce718015)
 
 
 ## Cardiovascular Assessment at Rest
