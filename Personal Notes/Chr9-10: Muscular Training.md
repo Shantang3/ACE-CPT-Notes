@@ -6,9 +6,15 @@
 
 ![IMG_1049](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/1f3fee88-b08a-400b-bb4e-edf7a03d44cf)
 
-Axial skeleton (74) - central nervous system,  Appendicular skeleton (remaining 126), articulations - synovial joint (flexion, extension, abduction, adduction)
+Axial skeleton (74) - central nervous system,  Appendicular skeleton (remaining 126), articulations - synovial joint (The most common type of joint, freely movable; 4 angular movements include flexion, extension, abduction, adduction)
 
-- Nervous system: central nervous system (CNS) and peripheral nervous system (PNS, somatic and autonomic)
+The planes of motion: sagittal - divides the body into right and left halves; transverse - divides the body into superior and inferior halves; frontal - divides the body into anterior and posterior halves.
+
+![IMG_1051](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/36ebc1bb-dc65-442a-87ac-e6be32733585)
+
+- Nervous system: central nervous system (CNS) and peripheral nervous system (PNS, somatic and autonomic).
+
+The parasympathetic nervous system aids in controlling normal functions when the body is relaxed and aids in digesting food, storing energy, and promoting growth. The sympathetic nervous system is activated when there's a stressor or emergency (severe pain, anger, etc.) to stop storing energy and mobilize all resources to respond. 
 
 - Muscular System: skeletal muscle, smooth muscle, and cardiac muscle.
 
@@ -19,6 +25,8 @@ Axial skeleton (74) - central nervous system,  Appendicular skeleton (remaining 
 Muscle function and muscle-fiber arrangement: longitudinal, unipennate, bipennate, multipennate. 
 
 Ddecomposite: muscle >> bundles of muscle fibers surrounded by perimysium >> muscle fiber, endomysium - connective tissue surrounding individual muscle fibers)
+
+![IMG_1065 copy](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/627fbe0b-640b-4419-8c7e-7915d4231129)
 
 Slow-twitch muscle fiber: type 1, contains a relatively large amount of mitochondria and higher concentrations of myoglobin >> resistant to fatigue and capable of sustaining aerobic metabolism.
 
@@ -49,6 +57,8 @@ Synergist muscles assist the agonist in causing a desired action. Co-contraction
 ## Benefit of Muscular Training
 
 Increased physical capacity, enhanced metabolic function, reduced injury risk, and disease prevention.
+
+Wolff's Law: changes in bone structure coincide with changes in bone function. That is, when the skeleton is subject to stressful forces, such as exercise, it responds by laying down more bone tissue, thereby increasing its density. 
 
 
 ## Physiological Adaptation to Muscular Training: Acute and Long-term
@@ -91,7 +101,19 @@ Volumn = sets * reps * weight load (for load-volume calculation). Typically lowe
 
 - Training Tempo: commonly recommended movement speed of six seconds per repetition. 
 
-- Best intervals (recovery period): replenishment of muscle energy substrates is relatively rapid, with 50% renewal within the first 30 sec, 75% within the first minute, and 95% renewal within the first two minutes. 
+- Best intervals (recovery period): replenishment of muscle energy substrates is relatively rapid, with 50% renewal within the first 30 sec, 75% within the first minute, and 95% renewal within the first two minutes.
+
+#### E.G.
+
+1. developing general muscular fitness: sets 1-4, repetitions 8-15, rest interval: 2-3min, intensity: 20-70% of 1RM (one-repetition max)
+
+2. improving muscular endurance: sets 2-3, repetitions >=12, rest interval: 2-3min, intensity: <67% of 1RM (one-repetition max)
+
+3. experiencing muscular hypertrophy: sets 3-6, repetitions 6-12, rest interval: 30-9-sec, intensity: 67-85% of 1RM (one-repetition max)
+
+4. developing greater muscular strength: sets 2-6, repetitions <=6, rest interval: 2-5min, intensity: >85% of 1RM (one-repetition max)
+
+5. a powerlifter who performs single-effort events: sets 3-5, repetitions 1-2, rest interval: 2-5min, intensity: 80-90% of 1RM (one-repetition max)
 
 
 
@@ -102,7 +124,7 @@ Volumn = sets * reps * weight load (for load-volume calculation). Typically lowe
 - Conditioning: frequency, duration, intensity, and modality. 
 
 - Cool-down: stress reduction, return heart rate to resting levels, and initiate relation and the recovery process.
-- 
+
 
 
 # Chr 10: Muscular training: assessments
