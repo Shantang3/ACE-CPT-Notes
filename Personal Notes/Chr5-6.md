@@ -122,7 +122,9 @@ To help educate a client, the following is appropriate and within the scope of p
 
 ![IMG_1025](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/49c10e3b-4902-4eac-8236-862492824d42)
 
-prevent a greater than 2% loss in body weight during exercise. Refueling should begin within 30 minutes after exercise.
+In general, a pre-excise meal should be relatively high in carb to nax blood glucose availability, relatively low in fat and fiber to minimize GI distress, moderate in protein, around 400-800 calories, and well-tolerated by the individuals. 
+
+Prevent a greater than 2% loss in body weight during exercise. Refueling should begin within 30 minutes after exercise.
 
 On the day of an event, ab athletes should aim to eat a meal 4-6 hours before the event.
 
