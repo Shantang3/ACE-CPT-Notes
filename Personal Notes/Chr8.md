@@ -16,7 +16,9 @@
 
 Cardiac output = HR * SV (stroke volume): at rest average 5 liters/min; during maximal exercise 20-25 and can rise to 30-40 liters/min.
 
-- Oxygen extraction: aerobic production of ATP in the mitochondria, depends on the muscle-fiber type and availability of specialized oxidative enzymes. 
+- Oxygen extraction: aerobic production of ATP in the mitochondria, depends on the muscle-fiber type and availability of specialized oxidative enzymes.
+
+![IMG_1034](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/b227c009-20f1-4d3a-9fee-85acfeeb1b24)
 
 
 ## Physiological Adaptations to Acute and Chronic Cardiorespiratory Exercise
@@ -36,9 +38,13 @@ High-intensity interval training (HIIT) promotes similar or greater improvements
 
 Body-temperature regulation: heat gain (metabolic heat, environmental heat, radiation, conduction, convection) vs. heat loss (radiation, conduction, convection, evaporation). 
 
+![IMG_1035](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/786ec100-afa4-4396-a937-c983ea30b2b0)
+
 - When exercising in the heat, be cautious about heat exhaustion and heat stroke.
+
+![IMG_1036](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/363dd943-d9ee-470b-b696-7eee9208ef23)
   
-- When exercising in the code, be cautious about hypothermia and/or frostbite.
+- When exercising in the cold, be cautious about hypothermia and/or frostbite.
 
 - Exercising at higher altitudes: altitude sickness. Usually two weeks of acclimatization (3rd day worst).
 
@@ -47,9 +53,11 @@ Body-temperature regulation: heat gain (metabolic heat, environmental heat, radi
 
 ## General Guidelines
 
-TODO: add table 8.4
+![IMG_1037](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/aca90de9-9dcd-4572-935b-8e9ec10227b6)
 
 - Frequency recommendation: moderate-intensity cardiorespiratory exercise: minimum 5 days per week; or vigorous-intensity cardiorespiratory exercise: minimum 3 days per week; or combination of moderate- and vigorous-intensity cardiorespiratory exercise: 3 -5 days per week.
+
+![IMG_1038](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/38edd3d0-85d2-4b60-a285-13ca00ce1774)
 
 - Intensity: by HR, Rating of perceived exertion (RPE), VO2 or metabolic equivalents (METs), caloric expenditure, talk test and HR at 1st ventilatory threshold (VT1), blood lactate and HR at VT2, etc. 
 
@@ -61,8 +69,6 @@ TODO: add table 8.4
 
 * Caloric expenditure
 
-Table 8.8 MET
-
 * VT1 and VT2: talk comfortably below VT1 in zone 1; cannot talk comfortably avove V2 in some . 
 
 - Duration (time)
@@ -73,9 +79,17 @@ Table 8.8 MET
 
 - A FITT for reducing sedentary time: frequency (break every 1-2 hours) - intensity (light-intensity during break) - time (avoid 2-hour setting and 5-10 min break) - type (light-intensity such as household task.
 
+![IMG_1039](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/201a5382-7aa3-4969-bb6c-99260891000d)
+
 
 
 ## Assessments
+
+![IMG_1041](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/285dd50c-f990-45a1-a240-33fddc8358b4)
+
+![IMG_1042](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/6ca2c1f6-a24b-4e28-88b9-209e4c318cff)
+
+![IMG_1043](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/0fbc4fa9-39e2-4c4e-b2e8-e161e4ef989e)
 
 - Ventilatory threshold assessment: VT1 for 1-2 hours of exercise; VT2 for 30-60 minutes for well-trained individuals.
 
@@ -83,7 +97,9 @@ Table 8.8 MET
 
 - Submaximal talk test for VT1: HR telemetry for continuous monitoring for 5-bpm increase to measure HR response at VT1 by increasing exercise intensity.\
 
-- VT2 threshold (onset of blood lactate accumulation OBLA): 10-mile time run or 30 minutes to estimate HR at VT2. 
+- VT2 threshold (onset of blood lactate accumulation OBLA): 10-mile time run or 30 minutes to estimate HR at VT2.
+
+![IMG_1040](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/2fd6beaf-3f41-42a6-9da5-d965c3914a18)
 
 
 ## Components of a Cardiorespiratory Workout Session
