@@ -6,9 +6,12 @@
 
 - Respiratory system
 
+![IMG_1045](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/51fd2f7f-2b7f-470a-86ea-f0268dee46e2)
 
 
 ## Physiology of Cardiorespiratory System
+
+The most important factor in cardio fitness is the delivery of blood to the active cells, which is a function of cardio output (the product of heart rate and stroke volume = quantity of blood pumped ber hearbeat). 
 
 - Oxygen-carrying capacity: the ability to adequately ventilate the alveoli in the lungs (pulmonary ventilation: rate and depth of breathing – tidal volume), the hemoglobin (Hb) concentration of the blood.
 
@@ -46,12 +49,14 @@ Body-temperature regulation: heat gain (metabolic heat, environmental heat, radi
   
 - When exercising in the cold, be cautious about hypothermia and/or frostbite.
 
-- Exercising at higher altitudes: altitude sickness. Usually two weeks of acclimatization (3rd day worst).
+- Exercising at higher altitudes (the relative availability of O2 is reduced): altitude sickness. Usually two weeks of acclimatization (3rd day worst).
 
 - Exercising in air pollution: 
 
 
 ## General Guidelines
+
+Current guidelines recommend physical activity be performed on most days of the week.
 
 ![IMG_1037](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/aca90de9-9dcd-4572-935b-8e9ec10227b6)
 
@@ -59,25 +64,29 @@ Body-temperature regulation: heat gain (metabolic heat, environmental heat, radi
 
 ![IMG_1038](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/38edd3d0-85d2-4b60-a285-13ca00ce1774)
 
-- Intensity: by HR, Rating of perceived exertion (RPE), VO2 or metabolic equivalents (METs), caloric expenditure, talk test and HR at 1st ventilatory threshold (VT1), blood lactate and HR at VT2, etc. 
+- Intensity (the most difficult variable of the exercise program to represent quantitatively): by HR, Rating of perceived exertion (RPE), VO2 or metabolic equivalents (METs), caloric expenditure, talk test and HR at 1st ventilatory threshold (VT1), blood lactate and HR at VT2, etc. 
 
 * Maximal HR (MHR) = (220-AGE) with 12 bmp standard deviations (Fox, Naughton, Haskell); MHR = 206.9 - 0.69 * Age (Gellish); influenced by genetics, exercise modality, medications, body size (usually higher in smaller individuals), altitude, age (generally decreases by 1-bpm each year)
 
 * Targeted HR (THR) = HRR * %intensity + RHR, where HRR=MHR-RHR
 
-* VO2 and metabolic equivalent: minimal improvement in VO2 max threshold: 40/50% of VO2 max and VO2R
+* VO2 and metabolic equivalent (METs): minimal improvement in VO2 max threshold - 40/50% of VO2 max and VO2R. Requires measured VO2 for the most accurate programming; limited in programming by knowledge of METs for given activities; relative MET ranges for programming are population-based nut individual specific. 
 
 * Caloric expenditure
 
-* VT1 and VT2: talk comfortably below VT1 in zone 1; cannot talk comfortably avove V2 in some . 
+* VT1 and VT2: talk comfortably below VT1 in zone 1; cannot talk comfortably avove V2 in some.
 
-- Duration (time)
+* ! Talk test: based on actual changes in ventilation due to physiological adaptations to increasing intensity; very easy for practical measurement; no equipment needed; can easily be taught to clients; allows for personalized programming.
+
+* Rating of perceived exertion (RPE): subjective.
+
+- Duration (time): the most appropriate variable to manipulate initially when progressing a program.
 
 - Type: equipment-based cardio exercise, circuit training, outdoor exercise, water exercise
 
 - Exercise progression: SAID principle: specific adaptation to imposed demands
 
-- A FITT for reducing sedentary time: frequency (break every 1-2 hours) - intensity (light-intensity during break) - time (avoid 2-hour setting and 5-10 min break) - type (light-intensity such as household task.
+- A FITT for reducing sedentary time: frequency (break every 1-2 hours) - intensity (light-intensity during break) - time (avoid 2-hour setting and 5-10 min break) - type (light-intensity such as household task. More specific suggestions: set a timer to get up and move once every 90 minutes, take regular stretch breaks, hold walking meetings whenever possible, rely less on electronic communication and visit coworkers face-to-face, and walk for an additional 10 minutes at lunch. 
 
 ![IMG_1039](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/201a5382-7aa3-4969-bb6c-99260891000d)
 
@@ -113,14 +122,27 @@ Body-temperature regulation: heat gain (metabolic heat, environmental heat, radi
 
 ## ACE Integrated Fitness Training Model
 
-TABLE 8-11
+![IMG_1046](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/fa6f2a8d-288b-4b13-9eba-fbfb01efdd7d)
+
+![IMG_1047](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/38c60dee-eca9-4af2-9428-8c07db7d4921)
 
 - Base training: establishing consistent exercise participation, with relatively low- to moderate-intensity exercise of only moderate duration, to establish a cardio base.
 
 - Program Design: help clients have positive experiences with exercise. General principle: begin with zone-1 intensity exercise with HR below VT1 performed for as little as 10-15 minutes, 2-3 times each week. However, this should be progressed as rapidly as tolerated to at least 20 minutes at moderate intensity.
 
 - Fitness training:
-- 
-- Performance Training: for clients who have endurance-performance objectives and/or competitive endurance goals. Focus on anaerobic ppwer
+  
+- Performance Training: for clients who have endurance-performance objectives and/or competitive endurance goals. Focus on anaerobic power
 
-- 
+
+## E.G. THR Calculation
+
+A 35-year-old client with RHR 60bpm wants to participate in vigorous-intensity exercise at 60% of HRR (heart-rate reserve):
+
+![IMG_1044](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/88d56810-fad6-45e3-acf1-4d4c3d168984)
+
+
+## E.G. Cardio session with intervals
+
+![IMG_1048](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/449c6c6d-d09d-46f5-8153-11f6b39c8ac7)
+
