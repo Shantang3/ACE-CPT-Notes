@@ -188,21 +188,43 @@ Assessing posture, start by observing a client's stance following the right-angl
 ![IMG_1082](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/73100acf-a09f-4947-8248-30de4000e02d)
 
 
-#### Static Balance: unipedal stance test or timed one-leg stance test >> risk for falls, abilities to perform activities of daily living, and risk of low-back pain. 
+#### Static Balance: unipedal stance test or timed one-leg stance test 
 
-#### Dynamic balance: Y balance test - anterior, posteromedial, and posterolateral; 6 ft * 6 ft >> injury risk, not recommended for older adults.
+Info of risk for falls, abilities to perform activities of daily living, and risk of low-back pain. 
 
-- McGrill's torso muscular endurance test battery: trunk flexor endurance test, trunk lateral endurance test, trunk extensor endurance test >> total test battery interpretation: flexion: extension ratio should be less than 1.0; right-side bridge:left-side bridge should be no greater than 0.05 from a balanced score of 1.0; side bridge: extension ratio should be less than 0.75.
+#### Dynamic balance: Y balance test 
 
-#### Flexibility Assessments
+Reach for three directions of anterior, posteromedial, and posterolateral; 6 ft * 6 ft >> injury risk, not recommended for older adults.
 
-Fig 10-33 through 35: normal range of motion (NRM)
+## McGrill's torso muscular endurance test battery: 
+
+Trunk flexor endurance test, trunk lateral endurance test, trunk extensor endurance test >> total test battery interpretation: flexion: extension ratio should be less than 1.0; right-side bridge:left-side bridge should be no greater than 0.05 from a balanced score of 1.0; side bridge: extension ratio should be less than 0.75.
+
+#### Flexibility Assessments - normal range of motion (NRM)
+
+![IMG_1085](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/181fae1d-236f-4076-9ece-7756056968bf)
+
+![IMG_1086](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/9f9a0c08-7fe4-44e5-b983-37b524e71220)
+
 
 - Thomas test for hip flexor length: knee flex to 80 degrees and flatness of back and sacrum.
 
-Passive straight-leg raise: >= 80 degrees of movement before the pelvis rotates posteriorly as normal hamstring length. 
+![IMG_1087](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/1c1a0bfd-b3b5-4fa1-a424-87fde1f7ffc2)
 
-Shoulder flexion and extension: Flex the shoulder to 170-180 degrees or hands (nearly) touching the floor and extend the shoulders to 50-60 degrees off the floor.
+![IMG_1088](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/9b377bba-d259-45ca-8087-616903b039d5)
+
+
+- Passive straight-leg raise: >= 80 degrees of movement before the pelvis rotates posteriorly as normal hamstring length.
+
+![IMG_1089](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/3aebd044-8407-4fcf-ba0e-3433265e5617)
+
+![IMG_1090](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/ce24db24-6e34-4371-8552-832deb27885b)
+
+- Shoulder flexion and extension: Flex the shoulder to 170-180 degrees or hands (nearly) touching the floor and extend the shoulders to 50-60 degrees off the floor.
+
+![IMG_1091(1)](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/230d9ed2-d17b-47d3-8256-3e5779a9c081)
+
+![IMG_1091](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/cbf30a4c-ead5-4265-a543-3baa84de4037)
 
 
 
@@ -210,27 +232,52 @@ Shoulder flexion and extension: Flex the shoulder to 170-180 degrees or hands (n
 
 Perform five primary movements effectively in all three planes of motion without compromising postural or joint stability. 
 
-- Bend-and-left assessment: squat pattern (table 10-16)
+#### Bend-and-left assessment: squat pattern 
 
-- Single-leg assessment: step-up
+- Lumbar dominance: chronic hip flexor, such as who sit for prolonged periods.
+  
+- Quadriceps dominance: more pressure into the knees, placing greater loads on ACL.
+  
+- Glute dominance: preferred method of squatting, also helps activate hamstrings. 
 
-- Push assessment: shoulder push stabilization
+![IMG_1092](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/c6dc48a7-f150-4ac8-9eff-48824af50958)
 
-- Pull assessment: standing row
+![IMG_1093](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/00125890-4776-4405-9015-bbdf9fe96a12)
 
-- Rotation assessment: thoracic spine mobility
+#### Single-leg assessment: step-up
+
+![IMG_1094](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/30aca2a4-39e3-4f7b-b2a8-1dc5ed130acb)
+
+![IMG_1095](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/da3247c7-0559-4c98-b4cf-89602c0a0a01)
+
+#### Push assessment: shoulder push stabilization
+
+![IMG_1096](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/eff189c4-491d-4573-b13d-a0e9e62b2aae)
+
+#### Pull assessment: standing row
+
+![IMG_1097](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/2c49f848-986c-4f15-bc56-9243b51f907d)
+
+
+#### Rotation assessment: thoracic spine mobility
+
+![IMG_1098](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/37095b68-bbd7-4cfd-a87d-a188fe4af100)
+
+## Load/Speed Assessments
 
 - Muscular-endurance assessments: push-ups (full elbow extension with a straight back and rigid torso, chest touching the personal trainer's fist or a rolled towel without resting), body-weight squats.
   
-- Muscular-strength assessments: 1-RM bench-press assessment, 1-RM squat assessment. 
+- Muscular-strength assessments: 1-RM bench-press assessment, 1-RM squat assessment, Submaximal strength assessments
 
-Relative strength =  absolute strength/body weight, where absolute strenth = amount of weight lifted on time >> one-repitition max (1-RM)
+Relative strength =  absolute strength/body weight, where absolute strength = amount of weight lifted on time, or one-repetition max (1-RM)
 
-Note: Consideration of spotting
+Note: Consideration of spotting - as close as possible for dumbell exercises. 
 
-- Submaximal strength assessments: evaluate upper- and lower-strength
+Left-to-right muscle balance or appropriate ratios of agonist to antagonist muscle strength.
 
-## Power assessment; Load/speed, or Speed/agility/quickness Assessments
+
+
+## Power assessment; Speed/agility/quickness Assessments
 
 Power = force * vekicuty = work/time, where force = mass*acceleration, velocity = distance/time, work=force*distance.
 
@@ -238,9 +285,16 @@ Power = force * vekicuty = work/time, where force = mass*acceleration, velocity 
 
 - T-test
 
-## Checklist table for postural assessment
+
+## Cheatsheet for Assessment
+
+#### Checklist table for postural assessment
 
 ![Screenshot 2023-10-06 at 11 40 30 AM](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/c87f1179-c49c-45bf-9bd5-b18cc0889355)
 
 ![Screenshot 2023-10-06 at 11 41 54 AM](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/2e3a2e3a-37c9-4fdd-982f-47149c6759c4)
+
+#### Flexibility
+
+![Screenshot 2023-10-06 at 4 26 48 PM](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/5b643893-9d4a-44d2-af3e-907bd919d05a)
 
