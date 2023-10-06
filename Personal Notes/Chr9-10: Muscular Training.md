@@ -187,8 +187,6 @@ Assessing posture, start by observing a client's stance following the right-angl
 
 ![IMG_1082](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/73100acf-a09f-4947-8248-30de4000e02d)
 
-![Screenshot 2023-10-06 at 11 41 54 AM](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/f3e7f585-8455-4186-95e0-c5468e60caa3)
-
 
 #### Static Balance: unipedal stance test or timed one-leg stance test >> risk for falls, abilities to perform activities of daily living, and risk of low-back pain. 
 
@@ -243,3 +241,6 @@ Power = force * vekicuty = work/time, where force = mass*acceleration, velocity 
 ## Checklist table for postural assessment
 
 ![Screenshot 2023-10-06 at 11 40 30 AM](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/c87f1179-c49c-45bf-9bd5-b18cc0889355)
+
+![Screenshot 2023-10-06 at 11 41 54 AM](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/2e3a2e3a-37c9-4fdd-982f-47149c6759c4)
+
