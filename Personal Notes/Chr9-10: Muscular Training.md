@@ -137,27 +137,70 @@ Postural stability, joint mobility, functional movement, balance, cardiorespirat
 
 Improve joint function through muscular endurance, flexibility, core function, static balance, and dynamic balance.
 
-- Static postural assessment: muscle imbalance, altered neural action. 
+#### Static postural assessment: muscle imbalance, altered neural action. 
+
+![IMG_1072](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/765c17ee-d7f4-4f96-80ac-5d1e1432393e)
+
+Note the following summary is listed in the form of facilitated/hypertonic/shortened + inhibited/lengthened. 
+- Lordosis Posture: facilitated hip flexor & lumbar extensors, inhibited hip extensors & external obliques & rectus abdominis.
+
+- Kyphosis Posture: facilitated anterior chest/shoulders & latissimus dorsi & neck extensors, inhibited upper-back extensors & scapular stablizers & neck flexors.
+
+- Flat-back Posture: facilitated rectus abdominis & upper-back extensors & neck extensors & ankle plantar flexors, inhibited lliacus/psoas major & internal obliques & lumbar extensors & neck flexors.
+
+- Sway-back Posture: facilitated hamstrings & upper fibers of posterior obliques & lumbar extersors & neck extensors , inhibited lliacus/psoas major & external obliques & upper-back extensors & neck flexors.
+
+
 
 Correctible factors: repetitive movements (muscular pattern overload), awkward positions and movement (habitual), side dominance, lack of joint stability/mobility, and imbalanced strength-training programs. VS. non-correctible factors: congenital conditions (eg. scoliosis), pathologies (eg. rheumatoid arthritis), structural deviation, a certain type of trauma. 
 
 Assessing posture, start by observing a client's stance following the right-angle rule of the body. The objective is to observe the symmetry against the right angles that weight-bearing joints make relative to the line of gravity; focus on the obvious/gross imbalance and avoid getting caught up in minor postural asymmetries. Observe from frontal views(anterior - bisects right and left sides equally, posterior view - line of gravity bisects the sacrum and overlaps the spinous processes of vertebrae), sagittal view, and transverse view.
 
-Common postural deviations: subtalar pronations/supination and the effect on tibial and femoral rotation; hip adduction; pelvic tilting; shoulder position and the thoracic spine; head position
+#### Common postural deviations: 
 
-Fig 10-18: postural assessment checklist
+- Subtalar pronations/supination and the effect on tibial and femoral rotation: With shoes off, place the hands firmly on the fronts of the tighs; note the orientation of knees and thighs when moving between pronation and supination, and the calcaneus everts as the subtalar joint is pronated.
 
-- Static Balance: unipedal stance test or timed one-leg stance test >> risk for falls, abilities to perform activities of daily living, and risk of low-back pain. 
+![IMG_1074](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/b72f054e-0162-403a-b8aa-4f835e22f1aa)
 
-- Dynamic balance: Y balance test - anterior, posteromedial, and posterolateral; 6 ft * 6 ft >> injury risk, not recommended for older adults.
+
+- Hip adduction (hip hiking): in standing and in gait, a lateral tilt of the pelvis elevates one hip higher than the other, leading to the limb-length discrepancy. Note that sleeping on one's side produces a similar effect.
+
+![Screenshot 2023-10-06 at 11 24 11 AM](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/8f4f7bed-975c-4385-b55b-5e7e22f2f0cf)
+
+![IMG_1075](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/2318e0e6-31a1-4dd4-9bbd-fa0f394d643f)
+
+- Pelvic tilting: Anterior tilting of the pelvis frequently occurs in individuals with tight hip flexors, which is generally associated with a physically inactive and sedentary lifestyle.
+
+![IMG_1076](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/22546654-c565-4f38-ab39-88fc030b49b8)
+
+![IMG_1077](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/1b6ab276-e1d3-4a53-ab36-6a6b256891f2)
+
+
+- Shoulder position and the thoracic spine: to look from a posterior view, the vertebral and/or inferior angle of the scapulae protrude outward (scapular protraction), or the inferior angle and vertebral border outward (winged scapulae)> inability of the scapular stabilizers.
+
+![IMG_1080](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/d021b1c9-9352-4cca-a3c1-75eca0853cf7)
+
+![IMG_1081](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/f18d77fd-ccdb-4b23-b3ea-b78bbcdb391a)
+
+
+- head position
+
+![IMG_1082](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/73100acf-a09f-4947-8248-30de4000e02d)
+
+![Screenshot 2023-10-06 at 11 41 54 AM](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/f3e7f585-8455-4186-95e0-c5468e60caa3)
+
+
+#### Static Balance: unipedal stance test or timed one-leg stance test >> risk for falls, abilities to perform activities of daily living, and risk of low-back pain. 
+
+#### Dynamic balance: Y balance test - anterior, posteromedial, and posterolateral; 6 ft * 6 ft >> injury risk, not recommended for older adults.
 
 - McGrill's torso muscular endurance test battery: trunk flexor endurance test, trunk lateral endurance test, trunk extensor endurance test >> total test battery interpretation: flexion: extension ratio should be less than 1.0; right-side bridge:left-side bridge should be no greater than 0.05 from a balanced score of 1.0; side bridge: extension ratio should be less than 0.75.
 
-- Flexibility Assessments
+#### Flexibility Assessments
 
 Fig 10-33 through 35: normal range of motion (NRM)
 
-Thomas test for hip flexor length: knee flex to 80 degrees and flatness of back and sacrum.
+- Thomas test for hip flexor length: knee flex to 80 degrees and flatness of back and sacrum.
 
 Passive straight-leg raise: >= 80 degrees of movement before the pelvis rotates posteriorly as normal hamstring length. 
 
@@ -196,3 +239,7 @@ Power = force * vekicuty = work/time, where force = mass*acceleration, velocity 
 - Vertical jump assessment
 
 - T-test
+
+## Checklist table for postural assessment
+
+![Screenshot 2023-10-06 at 11 40 30 AM](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/c87f1179-c49c-45bf-9bd5-b18cc0889355)
