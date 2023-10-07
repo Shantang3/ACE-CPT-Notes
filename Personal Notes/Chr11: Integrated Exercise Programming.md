@@ -26,11 +26,11 @@ Formulate (a question) > search (for health and fitness research evidence) > scr
 
 - Muscular endurance
   
-- Flexibility: static stretching, proprioceptive neuromuscular facilitation (PNF, hold-relax, contract-relax, hold-relax with agonist contraction), dynamic stretching, ballistic stretching, self-myofascial release (foam roller).
+- Flexibility: static stretching, proprioceptive neuromuscular facilitation (PNF, hold-relax, contract-relax, hold-relax with agonist contraction), dynamic stretching, ballistic stretching, self-myofascial release (apply pressure to tight, restricted areas of fascia and underlying muscles, such as using foam roller; followed by static stretching).
   
 ![IMG_1112](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/5444c3a0-8570-4b33-81b6-ccb2b67983bf)
 
-Two neurological properties of stretching: autogenic inhibition (activation of Golgi tendon organ GTO inhibits a muscle spindle response) and reciprocal inhibition (activation of a muscle on one side of joint, i.e. the agonist, coincidents with neural inhibition of the opposing muscle, i.e., ). 
+Two neurological properties of stretching: autogenic inhibition (activation of Golgi tendon organ GTO inhibits a muscle spindle response) and reciprocal inhibition (activation of a muscle on one side of the joint, i.e. the agonist, coincident with neural inhibition of the opposing muscle, i.e., antagonist to facilitate movement). 
 
 ![IMG_1112](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/5444c3a0-8570-4b33-81b6-ccb2b67983bf)
 
@@ -51,6 +51,8 @@ Two neurological properties of stretching: autogenic inhibition (activation of G
 ![IMG_1116](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/4e7653fa-a0c9-4a6e-a4e5-94e54ddb219a)
 
 Movement pattern: linear forward > lateral > backpadel > rotational > crossover cutting curving
+
+![IMG_1117](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/c283a39f-c2d6-47bc-95f0-d915aef805d7)
 
 Lower body: jump in place, jumping jacks, alternating push-ff, single linear jump, standing long/vertical jump, multiple linear jumps,
 front/lateral cone jump, multidirectional jump, hexagon drill, diagonal cone jump ...
