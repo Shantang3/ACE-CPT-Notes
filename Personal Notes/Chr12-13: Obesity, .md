@@ -2,6 +2,8 @@
 
 ## Possible causes of obesity
 
+![IMG_1121](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/65ebefe8-576c-4d67-9926-cf42f1da2c36)
+
 Environmental factors, stress, genetics, hormones (leptin, adiponectin, immune hormones, appetite-regulating hormones), sleep, energy balance.
 
 
@@ -21,6 +23,8 @@ Given that the total EE is more important, emphasis should be placed on the tota
 
 - Cardio training:
 
+![IMG_1122](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/87d52c0d-dc86-4b6e-96be-6d3e76374721)
+
 Frequency: as active as possible and work up to at least five days per week. Moderate-intensity cardio at at least three days per week for bouts 20 minutes will begin in the Base Training phase. Lifestyle activities should be done often throughout each day.
 
 Intensity: to moderate intensity. Using talk test, and rating of perceived exertion (RPE) scale of "somewhat hard" / 3-4 out of 10
@@ -37,10 +41,14 @@ Suggested reduction after 13 weeks in clients with overweight: 4 (0.5-13.5) lbs 
 
 - Muscular training
 
+![IMG_1123](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/0c075766-b1d6-4aa4-b664-ceb7c0c91c27)
+
 Frequency: 2-3 days per week with a day of rest between sessions. Intensity: moderate level, 60-70% 1-RM. Time: depends, full-body muscular training should require 20-30 minutes. Type: all major muscle groups using ree weight and/or machine.
 
 
 ## Exercise and Weight Management
+
+![IMG_1124](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/ead1369f-4f4a-4cbb-a708-b14b7e70a54c)
 
 In the absence of concurrent caloric restriction, cardio exercise in the range of 150 minutes per week has been associated with moderate weight loss (4.4-6.6 lbs), while 250-420 minutes results in an 11-16.5 lbs loss. The combination of exercise and a sense of eating plan produces the best long-term weight-loss and weight-maintenance results. 
 
