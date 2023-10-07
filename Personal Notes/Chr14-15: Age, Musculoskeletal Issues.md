@@ -55,18 +55,27 @@ Recommendation: participate in exercise at the same level as other adults, perfo
 
 - Acute and Chronic injuries: the physiology of healing
 
-Phase I - inflammation (3-4 days after injury): implement RICE (rest or restricted activity, ice, compression, and elevation). Phase II - repair (may overlap with inflammation and last approx 6 weeks). Phase III - remodeling (overlaps with repair at about 3-6 weeks post-injury; healing, especially of ligament and bone, can last 1-2 years). 
+![IMG_1149](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/49c73174-4c8c-452e-af7e-4c33aaae6000)
+
+Phase I - inflammation (3-4 days after injury): implement RICE (rest or restricted activity, ice, compression, and elevation). Phase II - repair (consists of both repair and regeneration of tissue; may overlap with inflammation and last approx 6 weeks). Phase III - remodeling (overlaps with repair at about 3-6 weeks post-injury; healing, especially of ligament and bone, can last 1-2 years). 
+
+At pain levels above 3 our of 10 the exercise should stop and modified. 
 
 #### Common Acute Injuries
+
 - Muscle strains: tears of the muscle fibers due to work beyond capacity.
 
 - Ligament sprains: more frequently occur as pressure to stretch the ligament. e.g. ACL (anterior cruciate ligament).
 
+![IMG_1150](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/ba7edf45-da56-432f-8ef8-291c7e3fdbfb)
+
 - Cartilage Damage: compression of the joint coupled with a shearing motion > joint stiffness, clicking or popping with weight-bearing activities, joint pain.
 
 - Bone fractures; Head, neck and back injuries
+
+![IMG_1151](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/ae5733b5-92e3-45cf-ae59-14f872c02f26)
+
   
-   
 ## Common Overuse Conditions
 
 - Tendinitis, bursitis, and fasciitis: inflammation
@@ -91,10 +100,20 @@ Phase I - inflammation (3-4 days after injury): implement RICE (rest or restrict
 
 - Chronic injuries and conditions: Lifestyle and health-history questionnaire covering history, pain, activity, and treatment. Pay attention to warm-up, goal establishment, cool-down, recovery
 
+![IMG_1156](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/76afce2f-6ec3-42dc-9f68-a9dbadad5be6)
+
+![IMG_1157](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/29cdba71-56ed-4d51-a641-29448dfb2f54)
+
+![IMG_1158](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/89889752-6220-4914-99a5-6e53afd9ced8)
+
 
 ## Common Conditions of Upper Extremity
 
 - Shoulder: 1. address postural imbalances, 2. strengthen the scapular stabilizing muscles, 3. improve the strength of the anterior shoulder muscles and pectoralis major through controlled pushing motion, 4. begin to introduce overhead activities.
+
+![IMG_1152](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/71e9622c-a726-4a97-8781-1f604b86e0b3)
+
+![IMG_1153](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/e4454925-2206-4d0b-9658-e4731d2ec8b1)
 
 - Elbow, wrist, and hand: 1. Limit  overuse by introducing various grips for comfort and/or wearing gloves to increase friction, 2. Increase ROM through gentle stretches in all planes of motion, 3. Improve strength of wrist and hand, 4. Remove grips or gloves and slowly introduce volume to pulling exercises. 
 
@@ -105,6 +124,9 @@ Phase I - inflammation (3-4 days after injury): implement RICE (rest or restrict
 - Low back (a common postural dysfunction associated is exaggerated lordosis - tight erector spinae in the lumbar region and potential weakness in the posterior chain):
 
 ## Common Conditions of the Lower Extremity
+
+![IMG_1154](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/af596aa9-8a7a-41eb-8a25-7e297dfd6888)
+
 
 - Hip: 1. address any imbalance between the right and left sides, 2. Improve ROM in hip internal and external rotation and single-leg stance stability, 3. Improve hip-hinge mobility and stability, 4. Improve the strength of the muscles of the posterior chain.
 
