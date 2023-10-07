@@ -59,7 +59,7 @@ Recommendation: participate in exercise at the same level as other adults, perfo
 
 Phase I - inflammation (3-4 days after injury): implement RICE (rest or restricted activity, ice, compression, and elevation). Phase II - repair (consists of both repair and regeneration of tissue; may overlap with inflammation and last approx 6 weeks). Phase III - remodeling (overlaps with repair at about 3-6 weeks post-injury; healing, especially of ligament and bone, can last 1-2 years). 
 
-At pain levels above 3 our of 10 the exercise should stop and modified. 
+At pain levels above 3 out of 10 the exercise should stop and modified. 
 
 #### Common Acute Injuries
 
@@ -75,10 +75,20 @@ At pain levels above 3 our of 10 the exercise should stop and modified.
 
 ![IMG_1151](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/ae5733b5-92e3-45cf-ae59-14f872c02f26)
 
+
+E.G. A client is physically ready to return to exercise after experiencing an ankle injury:
+
+![IMG_1159](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/bfa07967-ccfd-4038-9dfb-b99008db75ab)
+
+
   
 ## Common Overuse Conditions
 
 - Tendinitis, bursitis, and fasciitis: inflammation
+
+An inflammation of the wrist extensor, referred to as tennis elbow, is also called lateral epicondylitis.
+
+The median nerve is commonly compressed due to carpal tunnel syndrome, which is the most frequently occurring compression syndrome of the wrist. Repetitive wrist and finger flexion when flexor tendons are strained results in a narrowing of the carpal tunnel.
 
 - Stress fracture: imbalance in bone formation and bone resorption.
 
@@ -115,6 +125,7 @@ At pain levels above 3 our of 10 the exercise should stop and modified.
 
 ![IMG_1153](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/e4454925-2206-4d0b-9658-e4731d2ec8b1)
 
+
 - Elbow, wrist, and hand: 1. Limit  overuse by introducing various grips for comfort and/or wearing gloves to increase friction, 2. Increase ROM through gentle stretches in all planes of motion, 3. Improve strength of wrist and hand, 4. Remove grips or gloves and slowly introduce volume to pulling exercises. 
 
 ## Common Conditions of the Spine
@@ -135,16 +146,16 @@ Piriformis syndrome causes compression of the sciatic nerve. Evaluate the pelvic
 Hip arthritis and hip replacement
 
 
-- Knee: Pay close attention to the hip, ankle and foot (pronation or supination). 1. address any imbalance between right and left sides, 2. address any tightness and instability in the hip, ankle, and foot that may be contributing to femoral internal rotation, 3. improve hip-hinge mobility and stability. 4. Improve the strength of the muscles of the posterior chain. U
+- Knee: Pay close attention to the hip, ankle, and foot (pronation or supination). 1. address any imbalance between right and left sides, 2. address any tightness and instability in the hip, ankle, and foot that may be contributing to femoral internal rotation, and 3. improve hip-hinge mobility and stability. 4. Improve the strength of the muscles of the posterior chain. U
 
-Iliotibial (IT) band friction syndrome: Observe positional imbalance of the pelvis.
+Iliotibial (IT) band friction syndrome: Observe positional imbalance of the pelvis. Tightness in the IT band causes an excessive lateral force to the patella via its fascial connection, and is associated with patellofemoral pain syndrome. 
 
 Tendinitis
 
 Patellofemoral pain syndrome (PFPS)
 
 
-- Ankle and Lower leg: 1. address mobility and stability in the foot and ankle, 2. improve strength in the muscles that control movement in the sagittal plane and then transverse plane, 4. improve strength in posterior chain
+- Ankle and Lower leg: 1. address mobility and stability in the foot and ankle, 2. improve strength in the muscles that control movement in the sagittal plane and then transverse plane, 4. improve strength in the posterior chain
 
 Shin splints (medial tibial stress syndrome MTSS and anterior shin splints)
 
@@ -152,6 +163,7 @@ Ankle sprains: follow return-to-activity guidelines. lateral movement creates an
 
 Achilles tendonitis
 
-Plantar fasciitis
+Plantar fasciitis: most important to include stretching exercising for the gastrocnemius, soleus, and plantar fascia
 
+Stretching soleus and gastrocnemius helps relieve medial tibial stress syndrome (MTSS) 
   
