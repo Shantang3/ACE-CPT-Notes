@@ -99,6 +99,8 @@ Exercise: regular, moderate-intensity (40-80% HRR/VO2R or RPE OF 12/16 (6-20 sca
 
 - Hypertension
 
+![IMG_1143](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/b557cb2c-fdb8-4abc-ad6c-c7ae04920819)
+
 Risk factors include stress, body weight (especially excess body fat), and sleep, as well as age, excessive sodium intake, increased alcohol intake, and physical inactivity.
 
 ![IMG_1130](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/23ef6c87-38ec-4a0c-9860-20613155e49d)
