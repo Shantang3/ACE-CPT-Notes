@@ -84,6 +84,8 @@ In addition to increased EE and a modified diet with reduced EI, "a comprehensiv
 
 It's important for ACE-PT to identify and discuss health conditions before working with a client. Once identified, ACE-PT should decide if a client needs approval from a healthcare professional.
 
+Three risk factors that are closely related to chronic diseases: poor diet, physical inactivity, and smoking. 
+
 
 ## Cardiovascular and Cerebrovascular Disorders
 
@@ -116,6 +118,10 @@ For exercise: most, but preferably all, days of the week, the intensity of 40-59
 - Stroke
 
 Rehabilitation following stroke typically focuses on optimizing basic activities of daily living skills: regain balance, coordination, and functional independence, and prevent complications and reoccurrence. 
+
+The most important modifiable risk factor for stroke is hypertension. Others include smoking, heart disease, inactivity, TIA. 
+
+Simple acronym FAST (facial dropping, arm weakness, speech difficulties, and time to call emergency service). 
 
 ![IMG_1133](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/70229816-a6fc-401c-97fa-7e6f3ce36bf3)
 
@@ -151,7 +157,7 @@ A person can develop type 1 diabetes at any age - being rapid in infants and chi
 
 The blood glucose level should be measured before and after each exercise session. Before exercise, 70 mg/dL as a relative contraindication to an acute bout of exercise; consume up to 15 grams of carb before exercise if < 100 mg/dL; exercise should not exceed a moderate intensity if hyperglycemia is present (< 300mg/dL). 
 
-An adjusted amount of insulin, typically reduce, injected should be considered for exercise. 
+An adjusted amount of insulin, typically reduced, injected should be considered for exercise. 
 
 - Type 2 Diabetes (insulin-resistance)
 
@@ -165,7 +171,7 @@ All adults with diabetes or prediabetes should engage in at least 150 minutes of
 
 - Metabolic Syndrome (MetS)
 
-Mets is identified by the presence of three or more of the following: elevated waist circumference (men > 40 inches or 102 cm, women > 35 inches or 88 cm), reduced HDL cholesterol (men < 40 mg/dL or on DT, women < 50 mg/dL or on DT), elevated TG (>150 mg/dL or on DT), increased BP (>130/85 mmHG or on DT), elevated fasting blood glucose (>100 mg/dL or on DT).
+Mets (cluster of conditions that increase the risk of heart disease, type 2 diabetes, and stroke) is identified by the presence of three or more of the following: elevated waist circumference (men > 40 inches or 102 cm, women > 35 inches or 88 cm), reduced HDL cholesterol (men < 40 mg/dL or on DT, women < 50 mg/dL or on DT), elevated TG (>150 mg/dL or on DT), increased BP (>130/85 mmHG or on DT), elevated fasting blood glucose (>100 mg/dL or on DT).
 
 ![IMG_1140](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/23a775e0-5c64-4059-8348-a6aa7cde3fd3)
 
