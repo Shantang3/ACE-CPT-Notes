@@ -135,9 +135,12 @@ Postural stability, joint mobility, functional movement, balance, cardiorespirat
 
 ## Functional Assessments
 
+To help the PT to observe a client's efficacies in postural stabilization, balance, and core function. 
 Improve joint function through muscular endurance, flexibility, core function, static balance, and dynamic balance.
 
 #### Static postural assessment: muscle imbalance, altered neural action. 
+
+The right-angle rule of the body: how the body represents itself in vertical alignment across the major joints: ankle, knee, hip, shoulder, and spine. To observe in three planes, noting specific "static" asymmetries at the joints.
 
 ![IMG_1072](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/765c17ee-d7f4-4f96-80ac-5d1e1432393e)
 
@@ -149,7 +152,6 @@ Note the following summary is listed in the form of facilitated/hypertonic/short
 - Flat-back Posture: facilitated rectus abdominis & upper-back extensors & neck extensors & ankle plantar flexors, inhibited lliacus/psoas major & internal obliques & lumbar extensors & neck flexors.
 
 - Sway-back Posture: facilitated hamstrings & upper fibers of posterior obliques & lumbar extersors & neck extensors , inhibited lliacus/psoas major & external obliques & upper-back extensors & neck flexors.
-
 
 
 Correctible factors: repetitive movements (muscular pattern overload), awkward positions and movement (habitual), side dominance, lack of joint stability/mobility, and imbalanced strength-training programs. VS. non-correctible factors: congenital conditions (eg. scoliosis), pathologies (eg. rheumatoid arthritis), structural deviation, a certain type of trauma. 
@@ -169,7 +171,7 @@ Assessing posture, start by observing a client's stance following the right-angl
 
 ![IMG_1075](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/2318e0e6-31a1-4dd4-9bbd-fa0f394d643f)
 
-- Pelvic tilting: Anterior tilting of the pelvis frequently occurs in individuals with tight hip flexors, which is generally associated with a physically inactive and sedentary lifestyle.
+- Pelvic tilting: Anterior tilting of the pelvis frequently occurs in individuals with tight hip flexors, which is generally associated with a physically inactive and sedentary lifestyle. Anterior pelvic tilt will increase lordosis in the lumbar spine.
 
 ![IMG_1076](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/22546654-c565-4f38-ab39-88fc030b49b8)
 
@@ -194,7 +196,7 @@ Info of risk for falls, abilities to perform activities of daily living, and ris
 
 #### Dynamic balance: Y balance test 
 
-Reach for three directions of anterior, posteromedial, and posterolateral; 6 ft * 6 ft >> injury risk, not recommended for older adults.
+Reach for three directions anterior, posteromedial, and posterolateral; 6 ft * 6 ft >> injury risk, not recommended for older adults.
 
 ## McGrill's torso muscular endurance test battery: 
 
@@ -234,7 +236,7 @@ Perform five primary movements effectively in all three planes of motion without
 
 #### Bend-and-left assessment: squat pattern 
 
-- Lumbar dominance: chronic hip flexor, such as who sit for prolonged periods.
+- Lumbar dominance: a lack of core and gluteal strength; chronic hip flexor, such as who sit for prolonged periods.
   
 - Quadriceps dominance: more pressure into the knees, placing greater loads on ACL.
   
@@ -286,7 +288,7 @@ Power = force * vekicuty = work/time, where force = mass*acceleration, velocity 
 - T-test
 
 
-## Cheatsheet for Assessment
+## Cheatsheet 
 
 #### Checklist table for postural assessment
 
@@ -294,7 +296,11 @@ Power = force * vekicuty = work/time, where force = mass*acceleration, velocity 
 
 ![Screenshot 2023-10-06 at 11 41 54 AM](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/2e3a2e3a-37c9-4fdd-982f-47149c6759c4)
 
-#### Flexibility
+#### Flexibility assessment
 
 ![Screenshot 2023-10-06 at 4 26 48 PM](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/5b643893-9d4a-44d2-af3e-907bd919d05a)
+
+#### Exercise Selection
+
+![IMG_1106](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/e0ccda28-7912-47e4-952d-947cd9758aed)
 
