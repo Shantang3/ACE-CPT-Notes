@@ -2,15 +2,17 @@
 
 ## Exercise and Youth
 
-Understand the child and their interest and motivations; muscle-strengthening activities don't have to be structured, but can instead be incorporated into play and games. 
+Understand the child and their interest and motivations; muscle-strengthening (build bone density) activities don't have to be structured, but can instead be incorporated into play and games. 
 
-Children have different risk factors than adults: the epiphyseal plate, or growth plate, is a cartilaginous area of the bone that is not fully formed in youth - improper form, repetitive impact, and torque may increase the risk of injury. Never encourage children to perform single maximal lifts or sudden explosive movements. Overuse injuries and sports-related traumatic injuries occur due to increase in "sport specialization" and year-round single-sport play. A PT must also remember the principles of periodization.
+Children have different risk factors than adults: the epiphyseal plate, or growth plate, is a cartilaginous area of the bone that is not fully formed in youth - improper form, repetitive impact, and torque may increase the risk of injury. Never encourage children to perform single maximal lifts or sudden explosive movements. Overuse injuries and sports-related traumatic injuries occur due to an increase in "sport specialization" and year-round single-sport play. A PT must also remember the principles of periodization.
 
 ![IMG_1144](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/5f422061-a63e-466f-9eff-cb5b732e9552)
 
 ![IMG_1145](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/31d14c1c-3f90-44c3-a69e-b699c7214713)
 
 ![IMG_1146](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/aa0a5638-3d5d-4d3a-bf1c-fa3c6ef60809)
+
+Children might be at greater risk of heat-related illness than adults: higher ratio of body surface to mass, lower exercise economy, diminished sweating capacity, and lower cardiac output. 
 
 ## Exercise for Women during Pregnancy and the Postpartum Period
 
@@ -22,11 +24,16 @@ It is important that PTs request medical clearance from a physician if the woman
 
 Women undergo a variety of physical changes during pregnancy that must be considered. Gaining 25-35 lbs is recommended. Woman's COG moves upward and forward > low-back discomfort and affects balance and coordination > A focus early in pregnancy on increased posterior leg and trunk strength through properly performed squat, lunge, and deadlift exercise programming. An increase in the hormone relaxin will increase joint laxity, women may see a flare-up of an old injury or simply feel more discomfort due to joint instability. A cardiac reserve is reduced in pregnant women (early month increases in heart rate, blood column, stroke volume, and cardiac output > allow for increased rest periods). 20 weeks of gestation, maintaining a supine position may cause decreased venous return > hypertension.
 
-If any of the following happened, the exercise session should be postponed and the client should discuss with a physician first: vaginal bleeding, abdominal pain, regular painful contractions, amniotic fluid exertion, dizziness, headache, chest pain, and muscle weakness. 
+
+To consider: risk of preterm labor, abdominal pain, vaginal bleeding, premature labor, rupture of membranes, or severe anemia. If any of the following happened, the exercise session should be postponed and the client should discuss with a physician first: vaginal bleeding, abdominal pain, regular painful contractions, amniotic fluid exertion, dizziness, headache, chest pain, and muscle weakness. 
+
+A focus early in the pregnancy on posterior leg and trunk strength can help ready for the increased weight and change in COG.
 
 - Postpartum
 
 For the woman who wishes to resume exercise shortly after delivery: obtain physician clearance and guidelines first; begin slowly and gradually increase duration, frequency, and intensity; exercise to strengthen major groups; drink plenty of water. It is essential to take into consideration a healing C-section or the presence of diastasis recti. 
+
+To consider: shifting hormone levels, fatigue, postpartum anemia, and diastasis recti or healing of C-section incision. 
 
 Exercise for diastasis recti: quadruped transverse abdominal isometric contraction. wide-stance squats with dumbbells, bridges (with a yoga block between tighs), bent-knee, alternate-leg heel taps (death bugs), bird dog. 
 
@@ -34,6 +41,8 @@ Exercise for diastasis recti: quadruped transverse abdominal isometric contracti
 ## Exercise for Older Adults
 
 Physiological results of aging include a decline in fitness levels, loss of height, reduced lean body bass, loss of skin and connective tissue elasticity, slower healing, changes in eyesight, and reduced coordination. 
+
+Conducting posture and flexibility assessment before movement assessment is especially important, considering arthritis is prevalent in this population. 
 
 ![IMG_1148](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/6fa2cbde-96bf-4e7f-9d9a-b0bd74fc220e)
 
