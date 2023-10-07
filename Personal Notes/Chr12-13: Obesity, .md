@@ -1,6 +1,6 @@
 # Chr12: Considerations for Clients with Obesity
 
-General consideration: emphasize total energy expenditure (e.g. walk/run distance), challenge clients with obesity might face when exercising in the heat - modify intensity; skin chafing and potential joint concerns; the psychological impact of certain types of exercise (aquatic exercise); mobility or balance challenges; lifestyle physical activity (NEAT).
+General consideration: emphasize total energy expenditure (e.g. walk/run distance), challenge clients with obesity might face when exercising in the heat - modify intensity; skin chafing and potential joint concerns; the psychological impact of certain types of exercise (aquatic exercise); mobility or balance challenges; lifestyle physical activity (non-exercise activity thermogenesis, NEAT).
 
 ## Possible causes of obesity
 
@@ -8,13 +8,15 @@ General consideration: emphasize total energy expenditure (e.g. walk/run distanc
 
 Simplistically as the result of an imbalance between calories consumed/energy intake/EI and calories expended/energy expenditure/EE. 
 
-Major factors: Environment, genetic predisposition, and human behavior; specifically stress, genetics, hormones (leptin - negative loop of "fat energy feeling", adiponectin - insulin and blood sugar, immune hormones, appetite-regulating hormones), sleep, and energy balance.
+Major factors: Environment, genetic predisposition, and human behavior; specifically environmental factors such as food (availability, quantity, energy density), labor-saving devices, and setting time(pollution is not a relevant environmental factor), stress (stimulate hunger), genetics, hormones (leptin - negative loop of "fat energy feeling", adiponectin - insulin and blood sugar, immune hormones, appetite-regulating hormones such as ghrelin), sleep, and energy balance.
 
 
 
 ## Nutritional Guidelines
 
 Reduce fat and/or carbohydrate intake to obtain a caloric deficit of 500 - 1000 kcal per day to produce a weight loss of 1/2 lbs per week (based on ~3,500 kcal equals 1 lb of fat). Other recommendations include portion control (serving size and calories in various foods), eating frequency (eating throughout the day), and consuming foods high in nutrient density (nutrient per calorie, considering vitamins minerals, and phytochemicals) and low in energy density (calories per weight or volume, typically high in fruits, vegetables, whole grains, legumes and low in fat, sweetened beverages and alcohol >> whole food, plant-based diet). 
+
+![IMG_1126](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/c8ede8d0-e7f0-4a88-a6ee-4b418530bd3e)
 
 The current Recommended Dietary Allowance (RDA) for protein is 46-56 g/day or 10-35% of total caloric intake.
 
@@ -25,6 +27,8 @@ When evaluating, consider: how does the diet cut calories, what is the nutrient 
 
 
 ## Exercise Guidelines
+
+![IMG_1127](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/0732b765-71b7-42ec-877b-bcd280522d8f)
 
 Given that the total EE is more important, emphasis should be placed on the total distance or time walked or run (e.g. 10 minutes walking * 3). Be aware that clients with obesity will likely experience challenges when in the heat >> swimming and water exercise with less stress on the joints. Some exercise may not be a good choice due to mobility and/or balance problems. Help the client to release the non-exercise activity thermogenesis (NEAT) -  the importance of daily activities such as fidgeting, walking, and standing >> Lifestyle change.  
 
@@ -50,12 +54,14 @@ Suggested reduction after 13 weeks in clients with overweight: 4 (0.5-13.5) lbs 
 
 ![IMG_1123](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/0c075766-b1d6-4aa4-b664-ceb7c0c91c27)
 
-Frequency: 2-3 days per week with a day of rest between sessions. Intensity: moderate level, 60-70% 1-RM. Time: depends, full-body muscular training should require 20-30 minutes. Type: all major muscle groups using ree weight and/or machine.
+Frequency: 2-3 days per week with a day of rest between sessions. Intensity: moderate level, 60-70% 1-RM. Time: depends, full-body muscular training should require 20-30 minutes. Type: all major muscle groups using free weight and/or machine.
 
 
 ## Exercise and Weight Management
 
 ![IMG_1124](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/ead1369f-4f4a-4cbb-a708-b14b7e70a54c)
+
+Resting energy expenditure contributes 60-75% of the body's total energy. 
 
 In the absence of concurrent caloric restriction, cardio exercise in the range of 150 minutes per week has been associated with moderate weight loss (4.4-6.6 lbs), while 250-420 minutes results in an 11-16.5 lbs loss. The combination of exercise and a sense of eating plan produces the best long-term weight-loss and weight-maintenance results. 
 
@@ -64,7 +70,11 @@ In addition to increased EE and a modified diet with reduced EI, "a comprehensiv
 
 ## Other weight-loss approaches
 
-- Pharmacological interventions. currently approved drugs in the U.S. include phentermine for short-term use (<3 months), and five obesity pharmacotherapies (orlistat, lorcaserin, phentemine-topiranate, naltrexone-bupropion, and liraglutide 3mg) that can be used longer. Note that regaining weight is common.
+- Note that lifestyle change is the most important factor for sustainable weight-loss success.
+
+![IMG_1125](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/9b925b00-ed21-44e2-a713-c5175192c736)
+
+- Pharmacological interventions (together with lifestyle intervention). currently approved drugs in the U.S. include phentermine for short-term use (<3 months), and five obesity pharmacotherapies (orlistat, lorcaserin, phentemine-topiranate, naltrexone-bupropion, and liraglutide 3mg) that can be used longer. Note that regaining weight is common.
 
 - Bariatric surgery. Even if it's more effective, it is associated with greater risks.
 
