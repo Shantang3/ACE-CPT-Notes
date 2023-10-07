@@ -46,7 +46,9 @@ Two neurological properties of stretching: autogenic inhibition (activation of G
 ![IMG_1115](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/09d2e002-9f1e-46da-bb46-f92536a8eadf)
 
 
-#### Load/Speed Training - plyometrics 
+#### Load/Speed Training 
+
+Plyometric training drills should be performed at the beginning of a training session, and after the completion of warm-up.
 
 ![IMG_1116](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/4e7653fa-a0c9-4a6e-a4e5-94e54ddb219a)
 
@@ -97,4 +99,13 @@ Applications: program active recovery (superior to passive recovery); program-sp
 ACE IFT model exercise programming template
 
 ![IMG_1118](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/7b12ea34-31a5-473a-863b-6d902f6b9ac8)
+
+E.G. 45-year-old, no moderate physical activity for 10 years, has healthy clearance and would like to start with moderate intensity. 
+
+![IMG_1119](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/b4ceba44-8ab2-4295-8e39-a446c71d9188)
+
+![IMG_1120](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/15d4b2f8-3726-4b98-ad6c-0a42da760788)
+
+
+
 
