@@ -6,14 +6,19 @@ Understand the child and their interest and motivations; muscle-strengthening ac
 
 Children have different risk factors than adults: the epiphyseal plate, or growth plate, is a cartilaginous area of the bone that is not fully formed in youth - improper form, repetitive impact, and torque may increase the risk of injury. Never encourage children to perform single maximal lifts or sudden explosive movements. Overuse injuries and sports-related traumatic injuries occur due to increase in "sport specialization" and year-round single-sport play. A PT must also remember the principles of periodization.
 
-Table 14-1.
+![IMG_1144](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/5f422061-a63e-466f-9eff-cb5b732e9552)
 
+![IMG_1145](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/31d14c1c-3f90-44c3-a69e-b699c7214713)
+
+![IMG_1146](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/aa0a5638-3d5d-4d3a-bf1c-fa3c6ef60809)
 
 ## Exercise for Women during Pregnancy and the Postpartum Period
 
 - Pregnancy
 
 It is important that PTs request medical clearance from a physician if the woman also has obstetric or medical comorbidities such as severe obesity, gestational diabetes, or hypertension. Current recommendations support moderate-intensity exercise for at least 140 minutes three days per week during normal pregnancy. 
+
+![IMG_1147](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/5e5ed5b9-1746-46af-ae84-780a16d6da5f)
 
 Women undergo a variety of physical changes during pregnancy that must be considered. Gaining 25-35 lbs is recommended. Woman's COG moves upward and forward > low-back discomfort and affects balance and coordination > A focus early in pregnancy on increased posterior leg and trunk strength through properly performed squat, lunge, and deadlift exercise programming. An increase in the hormone relaxin will increase joint laxity, women may see a flare-up of an old injury or simply feel more discomfort due to joint instability. A cardiac reserve is reduced in pregnant women (early month increases in heart rate, blood column, stroke volume, and cardiac output > allow for increased rest periods). 20 weeks of gestation, maintaining a supine position may cause decreased venous return > hypertension.
 
@@ -29,6 +34,8 @@ Exercise for diastasis recti: quadruped transverse abdominal isometric contracti
 ## Exercise for Older Adults
 
 Physiological results of aging include a decline in fitness levels, loss of height, reduced lean body bass, loss of skin and connective tissue elasticity, slower healing, changes in eyesight, and reduced coordination. 
+
+![IMG_1148](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/6fa2cbde-96bf-4e7f-9d9a-b0bd74fc220e)
 
 Recommendation: participate in exercise at the same level as other adults, performing moderate-intensity cardio for a minimum of 150 to 400 minutes each week or vigorous-intensity cardio for 75-150 minutes per week. However, be cautious about chronic diseases such as arthritis. Balance training is recommended. 
 
