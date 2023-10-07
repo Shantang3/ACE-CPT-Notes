@@ -48,7 +48,7 @@ Two neurological properties of stretching: autogenic inhibition (activation of G
 
 #### Load/Speed Training 
 
-Plyometric training drills should be performed at the beginning of a training session, and after the completion of warm-up.
+Plyometric training drills should be performed at the beginning of a training session and after the completion of warm-up. Beginning volumn wcould be 80-100 repetitions/contacts per session. 
 
 ![IMG_1116](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/4e7653fa-a0c9-4a6e-a4e5-94e54ddb219a)
 
