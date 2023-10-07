@@ -7,8 +7,7 @@
 
 ![IMG_1107](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/89056032-8881-437b-97a5-d40034c6996d)
 
-Formulate (a question) > search (for health and fitness research evidence) > scrutinize (the quality of research evidence) 
-> incorporate (the evidence into program design and implementation) > evaluate (outcomes) > formulate again > ...
+Formulate (a question) > search (for health and fitness research evidence) > scrutinize (the quality of research evidence) > incorporate (the evidence into program design and implementation) > evaluate (outcomes and periodically reevaluate) > formulate again > ...
 
 ![IMG_1108](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/49550fb1-587a-4e07-b6cb-a5714a878b0e)
 
