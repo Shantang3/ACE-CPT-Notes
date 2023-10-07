@@ -6,12 +6,13 @@ Sole proprietorship, partnership, corporations (LLCs, LLPs, C-corporations, fran
 
 ![IMG_1160](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/08f5bc42-8b15-467d-993c-389c1f80460c)
 
-![IMG_1162](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/60a2035b-0559-4d05-ae1f-86b4008b7a9a)
+![IMG_1161](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/4819bde1-9f89-4cae-9bd6-167a07de4444)
 
 
 ## Independent Contractors vs. Employees
 
-![IMG_1161](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/4819bde1-9f89-4cae-9bd6-167a07de4444)
+![IMG_1162](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/60a2035b-0559-4d05-ae1f-86b4008b7a9a)
+
 
 ## Important Legal Forms
 
