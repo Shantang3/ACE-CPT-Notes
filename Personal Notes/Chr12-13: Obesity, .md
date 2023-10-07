@@ -1,10 +1,15 @@
 # Chr12: Considerations for Clients with Obesity
 
+General consideration: emphasize total energy expenditure (e.g. walk/run distance), challenge clients with obesity might face when exercising in the heat - modify intensity; skin chafing and potential joint concerns; the psychological impact of certain types of exercise (aquatic exercise); mobility or balance challenges; lifestyle physical activity (NEAT).
+
 ## Possible causes of obesity
 
 ![IMG_1121](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/65ebefe8-576c-4d67-9926-cf42f1da2c36)
 
-Environmental factors, stress, genetics, hormones (leptin, adiponectin, immune hormones, appetite-regulating hormones), sleep, energy balance.
+Simplistically as the result of an imbalance between calories consumed/energy intake/EI and calories expended/energy expenditure/EE. 
+
+Major factors: Environment, genetic predisposition, and human behavior; specifically stress, genetics, hormones (leptin - negative loop of "fat energy feeling", adiponectin - insulin and blood sugar, immune hormones, appetite-regulating hormones), sleep, and energy balance.
+
 
 
 ## Nutritional Guidelines
@@ -14,6 +19,8 @@ Reduce fat and/or carbohydrate intake to obtain a caloric deficit of 500 - 1000 
 The current Recommended Dietary Allowance (RDA) for protein is 46-56 g/day or 10-35% of total caloric intake.
 
 Resting energy expenditure (REE, 60-75% TEE, Total energy expenditure): male (10 * weight in kg) + (6.35 * height in cm) - (5 * age) + 5; female male (10 * weight in kg) + (6.35 * height in cm) - (5 * age) - 161. 
+
+When evaluating, consider: how does the diet cut calories, what is the nutrient density, does the diet recommend exercise, does it make sense, where's the evidence, does it meet individual needs, how much does it cost, what kind of social support does the client have, how easy is it to adhere
 
 
 
