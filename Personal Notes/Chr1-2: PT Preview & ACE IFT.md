@@ -10,9 +10,9 @@ The primary purpose of professional certifications: to protect the public from h
 
 - Referral.
 
-- Some common "outside scope of practice": recommending supplements (unless other credentials such as RD or MD), creating meal plans and menus (refer to a registered dietitian or licensed nutritionist), determining/treating injury (refer to a physician, athletic trainer, or physical therapist) (while assessing exercise limitations is within), extreme emotional upheaval (with empathy but refer to licensed mental health prof), providing massage (refer to the licensed massage therapist).
+- Generally, PT can and should help clients prevent injuries and recovery from minor pain, but can't treat or cure injuries or chronic pain. It is within the scope of practice for all health and exercise professionals to recommend healthy foods and share dietary advice endorsed or developed by the federal government, including Dietary Guidelines for Americans, and the MyPlate recommendation. 
 
-- It is within the scope of practice for all health and exercise professionals to share dietary advice endorsed or developed by the federal government, including Dietary Guidelines for Americans, and the MyPlate recommendation. 
+- Some common "outside scope of practice": recommending supplements (unless other credentials such as RD or MD), creating meal plans and menus (refer to a registered dietitian or licensed nutritionist), determining/treating injury (refer to a physician, athletic trainer, or physical therapist) (while assessing exercise limitations is within), extreme emotional upheaval (with empathy but refer to licensed mental health prof), providing massage (refer to the licensed massage therapist).
   
 ![IMG_0995](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/776a92b9-51ec-49e4-8cd2-26126c392f14)
 
