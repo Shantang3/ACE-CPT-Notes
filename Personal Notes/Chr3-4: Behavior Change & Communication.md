@@ -33,6 +33,8 @@ Refers to the individual's readiness for change, also called as states-of-change
 ![IMG_0997](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/8fedf835-16c2-4c3a-a33d-4bae2d384026)
 ![IMG_0998](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/272a8f99-b64e-45ef-a84d-70d5a1bbf0b0)
 
+Be aware that scheduling an appointment with PT doesn't mean being ready to start a program.
+
 3. Processes of changes:
 
 *ABC approach: Ask powerful open-ended questions; Break down barriers; and Collaborate.*
