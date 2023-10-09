@@ -39,6 +39,8 @@ Be aware that scheduling an appointment with PT doesn't mean being ready to star
 
 *ABC approach: Ask powerful open-ended questions; Break down barriers; and Collaborate.*
 
+*OARS skills: Open-ended questions, Affirmation, Reflective listening, Summarizing.*
+
 ![IMG_0999](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/e8772327-a8b9-4912-8438-8af47219e7c5)
 
 3. Self-efficacy: strongly related to program adoption and maintenance. There are 6 sources of it: past performance experience, vicarious experience, verbal persuasion, physiological state appraisals, emotional state and mood appraisals, and/or imaginal experiences. 
