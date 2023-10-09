@@ -166,6 +166,8 @@ The program is a combination of exercises completed by clients on their own and 
 - Self-monitoring approaches: most effective to develop adherence; e.g. keeping an exercise journal.
 
 - Effective teaching techniques: pay attention to stages of learning (associative - basic okay and ready for more specific feedback to refine the skills vs. autonomous), learning styles (a kinesthetic learner may prefer hands-on approaches and "feeling" movement), "tell, show, do" (at the cognitive stage of learning), providing feedback (positively rephrasing), and modeling.
+
+Stages of learning: Cognitive - try to understand the new skills; associative stage - begin to master the basics and ready for more specific feedback; autonomous stage - perform motor skills effectively and naturally. 
   
 ![IMG_1010](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/ac07b689-0bdb-4a8e-884f-7318563bda67)
 
