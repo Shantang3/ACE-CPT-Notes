@@ -10,6 +10,8 @@ ACSM preparticipation guidelines, mainly based on the three factors of current l
 
 Note that identification of the signs/symptoms may be within the scope of practice, interpretation of those same signs/symptoms should be made only by qualified healthcare professionals. 
 
+Risk-factor profiling or classification could cause a barrier to exercise if included in the exercise preparticipation health screening process. 
+
 - For those who do not exercise regularly/:
 
 ![IMG_1015](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/00b4d960-8582-429a-b4e0-810e0d69aa50)d
