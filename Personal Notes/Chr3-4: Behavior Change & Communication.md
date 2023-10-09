@@ -43,7 +43,7 @@ Be aware that scheduling an appointment with PT doesn't mean being ready to star
 
 ![IMG_0999](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/e8772327-a8b9-4912-8438-8af47219e7c5)
 
-3. Self-efficacy: strongly related to program adoption and maintenance. There are 6 sources of it: past performance experience, vicarious experience, verbal persuasion, physiological state appraisals, emotional state and mood appraisals, and/or imaginal experiences. 
+3. Self-efficacy: strongly related to program adoption and maintenance. There are 6 sources of it: past performance experience (most strongly influence), vicarious experience, verbal persuasion, physiological state appraisals, emotional state and mood appraisals, and/or imaginal experiences. 
 
 4. Decisional Balance: evaluation of pros and cons of adopting and/or maintaining an activity program.
 
