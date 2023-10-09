@@ -18,6 +18,8 @@ The primary purpose of professional certifications: to protect the public from h
 
 ![IMG_0990](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/369651f0-b715-4067-b129-7f51f4009f7d)
 
+For some cases physicians involved: for clients who are referred by the physicians, most important to obtain written permission from the client proior to communicating with the referring physician. 
+
 
 # Chr 2: The ACE Integrated Fitness Training Model (IFT)
 
@@ -54,7 +56,7 @@ Building rapport is a critical component; ABC approach: ask open-ended questions
    
 ![IMG_0994](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/bdea8629-9795-4d0f-b8eb-07a41c78f684)
 
-- Functional Training: to establish or re-establish postural stability and kinetic chain mobility by improving joint function, muscular endurance, flexibility, core function static balance, and dynamic balance. Use primarily body-weight resistance.
+- Functional Training: to establish or re-establish postural stability and kinetic chain mobility by improving joint function, muscular endurance, flexibility, core function static balance, and dynamic balance. Use primarily body-weight resistance. most beneficial for a client who has problems performing activities of daily living. 
   
 - Movement Training: to develop good movement patterns without compromising postural or joint stability. Five primary movements: bend-and-lift movements, single-leg movement, pushing movement, pulling movement, and rotational movement. Emphasize the proper sequencing of movement and control of COG.
   
