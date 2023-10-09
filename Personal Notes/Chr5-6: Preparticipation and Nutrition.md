@@ -81,22 +81,27 @@ Individuals with hypertension are advised to follow the DASH (Dietary Approaches
 
 ## Food Labels
 
+Operated by FDA. 
+
 ![IMG_1024](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/6f41aa24-7c04-4adf-b390-eeaba35536b4)
 
 Aspects to be considered; serving size and serving per container, total calories, calories from fat/protein/carb, sugars (naturally occurring and added), sodium, fiber, trans fat, and ingredient list. 
+
+Generally, fewer ingredients are better; no food label is possibly best of all, practice the habit of reading labels to increase awareness. 
+
+Percent Daily Value is based on a 2,000-cal diet. 
 
 Some calculation:
 
 ![IMG_1026](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/301c657d-15ec-4769-8c1f-0df50e4bb25b)
 
-- Regulated term: allergen statement, health claims ("fiber maintains bowel regularity"), low sodium, reduced sodium, low fat, reduced fat. excellent source of fiber, fortification (added nutrient that is not contained naturally ) vs. enrichment (added back nutrient that is lost during processing).  
+- Regulated term: allergen statement, health claims ("fiber maintains bowel regularity"), low sodium, reduced sodium, low fat, reduced fat. excellent source of fiber, fortification (added nutrient that is not contained naturally like Ca added to orange juice) vs. enrichment (added back nutrient that is lost during processing, like vitamin B added to white flour).  
 
 - Unregulated terms: healthy, natural, nutritious, low-carb, contains.
   Eg. "natural flavor": an ingredient that contains naturally-derived chemicals, but could be comprised of 2-100 ingredients in itself;
   "Contains": has but not a lot
-- Generally, fewer ingredients are better
 
-- Avoid added sugars. Here are common sources of hidden added sugar: condiments, cereals, granola, yogurt, sports drinks, protein bars, energy drinks, baked goods, crackers, chips, and sauces.
+- Avoid added sugars (The intention is to increase awareness as many people inadvertently over-consume sugar, current dietary guidelines recommend <10% of total calories from added sugar). Here are common sources of hidden added sugar: condiments, cereals, granola, yogurt, sports drinks, protein bars, energy drinks, baked goods, crackers, chips, and sauces.  
 
 - Not about good or bad, but more about self-awareness.
   
@@ -130,6 +135,8 @@ On the day of an event, ab athletes should aim to eat a meal 4-6 hours before th
 
 
 ## Nutritional supplements
+
+Because of non-regulation, supplements carry a risk of contamination or staining of harmful products or banned substances. Advise to get third-party verified product, but note that verification may assure safety, but not effectiveness
 
 Note that older, female, and military tend to take supplements more than others. 
 
