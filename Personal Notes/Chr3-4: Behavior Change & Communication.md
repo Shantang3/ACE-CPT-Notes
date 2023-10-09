@@ -35,7 +35,7 @@ Refers to the individual's readiness for change, also called as states-of-change
 
 3. Processes of changes:
 
-ABC approach: Ask powerful open-ended questions; Break down barriers; and Collaborate.
+*ABC approach: Ask powerful open-ended questions; Break down barriers; and Collaborate.*
 
 ![IMG_0999](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/e8772327-a8b9-4912-8438-8af47219e7c5)
 
