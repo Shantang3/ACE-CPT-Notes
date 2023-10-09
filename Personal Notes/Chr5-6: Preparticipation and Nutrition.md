@@ -28,7 +28,7 @@ Risk-factor profiling or classification could cause a barrier to exercise if inc
 
 ## Additional forms
 
-For medical info, family history, nutrition, 
+For medical info, family history, nutrition. Lifestyle and health-history questionnaire collects more detailed medical and health info beyond preparticipation health screening. 
 
 ![IMG_1018](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/60f28dce-af73-4632-8b7f-00e4f9a3b599)
 ![IMG_1019](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/6f39603a-0c9d-402b-ac89-95f3d642bc53)
