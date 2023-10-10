@@ -2,8 +2,6 @@
 
 ![IMG_0992](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/efc2ddd8-2708-4bfa-bc20-1ecd581b1e53)
 
-![Screenshot 2023-10-09 at 9 40 20 PM](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/8e374b7c-1085-4097-a87d-e53fdc00d222)
-
 
 ## Evidence-based Practice (EBP)
 
