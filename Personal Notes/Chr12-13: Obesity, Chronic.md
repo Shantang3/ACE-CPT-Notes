@@ -1,6 +1,6 @@
 # Chr12: Considerations for Clients with Obesity
 
-General consideration: emphasize total energy expenditure (e.g. walk/run distance), challenge clients with obesity might face when exercising in the heat - modify intensity; skin chafing and potential joint concerns; the psychological impact of certain types of exercise (aquatic exercise); mobility or balance challenges; lifestyle physical activity (non-exercise activity thermogenesis, NEAT).
+General consideration: emphasize total energy expenditure (e.g. walk/run distance), challenges clients with obesity might face when exercising in the heat - modify intensity; skin chafing and potential joint concerns; the psychological impact of certain types of exercise (aquatic exercise); mobility or balance challenges; lifestyle physical activity (non-exercise activity thermogenesis, NEAT).
 
 ## Possible causes of obesity
 
@@ -8,8 +8,9 @@ General consideration: emphasize total energy expenditure (e.g. walk/run distanc
 
 Simplistically as the result of an imbalance between calories consumed/energy intake/EI and calories expended/energy expenditure/EE. 
 
-Major factors: Environment, genetic predisposition, and human behavior; specifically environmental factors such as food (availability, quantity, energy density), labor-saving devices, and setting time(pollution is not a relevant environmental factor), stress (stimulate hunger), genetics, hormones (leptin - negative loop of "fat energy feeling", adiponectin - insulin and blood sugar, immune hormones, appetite-regulating hormones such as ghrelin), sleep, and energy balance.
+Major factors: Environment, genetic predisposition, and human behavior; specifically environmental factors such as food (availability, quantity, energy density), labor-saving devices, and setting time(pollution is not a relevant environmental factor), stress (stimulate hunger), genetics, hormones (ghrelin from stomach increase hunger and leptin from fat decrease hunger - negative loop of "fat energy feeling", adiponectin - insulin and blood sugar, immune hormones, appetite-regulating hormones such as ghrelin), sleep, and energy balance.
 
+![Screenshot 2023-10-10 at 3 25 30 PM](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/854d5359-0a39-4f12-8e03-a0f6466b95af)
 
 
 ## Nutritional Guidelines
@@ -56,6 +57,8 @@ Suggested reduction after 13 weeks in clients with overweight: 4 (0.5-13.5) lbs 
 
 Frequency: 2-3 days per week with a day of rest between sessions. Intensity: moderate level, 60-70% 1-RM. Time: depends, full-body muscular training should require 20-30 minutes. Type: all major muscle groups using free weight and/or machine.
 
+- Compound exercise
+
 
 ## Exercise and Weight Management
 
@@ -82,14 +85,16 @@ In addition to increased EE and a modified diet with reduced EI, "a comprehensiv
   
 # Chr13: Considerations for Clients with Chronic Diseases
 
-It's important for ACE-PT to identify and discuss health conditions before working with a client. Once identified, ACE-PT should decide if a client needs approval from a healthcare professional.
+It's important for ACE-PT to identify and discuss health conditions before working with a client. Once identified, ACE-PT should decide if a client needs approval from a healthcare professional. Remember to consider referral. modifications are based on disease (severity), restriction, response to exercise, safety concerns, and activities to emphasize or to avoid.  
 
-Three risk factors that are closely related to chronic diseases: poor diet, physical inactivity, and smoking. 
+Three risk factors that are closely related to chronic diseases: poor diet (rich in highly saturated fats, sugars, and salt), physical inactivity, and smoking. Other include alcohol consumption. While genetic predisposition can lead to an increased risk of chronic diseases, lifestyle remains the singel most influential factor. 
 
 
 ## Cardiovascular and Cerebrovascular Disorders
 
 - Cardonary artery disease (CAD, also called atherosclerotic heart disease).
+
+Results when the coronary arteries are narrowed or occluded, most commonly by atherosclerotic deposits of fibrous and fatty tissue. Risk factors include hypertension, smoking, type 2 diabetes, dyslipidemia, poor nutritional habits, and physical inactivity. 
 
 ![IMG_1128](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/fa3898c3-63f8-4bb8-a5fa-b36a054aec70)
 
@@ -99,15 +104,17 @@ Nutrition: A healthy diet pattern (5 primary and three secondary metrics): fruit
 
 Exercise: regular, moderate-intensity (40-80% HRR/VO2R or RPE OF 12/16 (6-20 scale) or add 20-30 bpm to RHR), physical activity for at least 150 minutes per week and muscle-strengthening activities on at least two days per week. It is most appropriate for PT to work with low-rish CAD clients (an uncomplicated clinical course, no evidence of resting or exercise-induced ischemia/arrhythmias, functionally capacity > 7 METs three weeks following any medical event, normal ventricular  function with an ejection fraction> 50%). 
 
-- Hypertension
+- Hypertension (130/80 mmHg)
 
 ![IMG_1143](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/b557cb2c-fdb8-4abc-ad6c-c7ae04920819)
 
-Risk factors include stress, body weight (especially excess body fat), and sleep, as well as age, excessive sodium intake, increased alcohol intake, and physical inactivity.
+Risk factors include stress, body weight (especially excess body fat), and sleep, as well as age, excessive sodium intake, increased alcohol intake, and physical inactivity. Around 90-95% of cases are essential hypertension which has no known cause, 5-10% of cases are secondary hypertension with an identifiable cause. Risk factors include stress, excess body fat, lack of sleep, excessive sodium intake, and physical inactivity. 
 
 ![IMG_1130](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/23ef6c87-38ec-4a0c-9860-20613155e49d)
 
 Treatment falls into nonpharmacological (lifestyle) interventions and pharmacological interventions. For lifestyle modification: weight reduction, adopt DASH (Dietary Approaches to Stop Hypertension, to consume fiber and potassium via fruits, veggies, and whole grains, reduce intake of sodium, total and saturated fat, ...), dietary sodium reduction, physical activity, moderation of alcohol. For pharmacological interventions: be cautious that medications prescribed have a potential impact on the exercise and post-exercise response.
+
+Note some beta-blockers can blunt or block the HR response, thus measuring HR will be inaccurate. Perceived exertion (RPE) should be used, 
 
 ![IMG_1131](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/8455d34c-449a-4007-99a1-f3283576c8ed)
 
@@ -116,6 +123,8 @@ Treatment falls into nonpharmacological (lifestyle) interventions and pharmacolo
 For exercise: most, but preferably all, days of the week, the intensity of 40-59% HRR or VO2R or RPE OF 12/13 (6-20 scale) or below VT1 can talk comfortably, with the goal of at least 30 minutes of continuous or accumulated exercise. 
 
 - Stroke
+
+Ischemic stroke: a sudden interrupted or diminished of blood supply to the brain in cerebral circulation; Hemorrhagic stroke: disruption of blood flow to brain caused by a blood clot or hematoma. Most important factor is hypertension, other include smoking, heart disease, previous stroke. 
 
 Rehabilitation following stroke typically focuses on optimizing basic activities of daily living skills: regain balance, coordination, and functional independence, and prevent complications and reoccurrence. 
 
@@ -129,6 +138,8 @@ Simple acronym FAST (facial dropping, arm weakness, speech difficulties, and tim
 
 
 - Peripheral Arterial Disease (PAD)
+
+Result of atherosclerosis of the arteries in the lower limbs
   
 ![IMG_1135](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/7b077fa3-ef92-4725-a080-def07ba08434)
 
@@ -136,6 +147,8 @@ Simple acronym FAST (facial dropping, arm weakness, speech difficulties, and tim
 ## Metabolic Disorders:
 
 - Dyslipidemia
+
+An undesirable level of blood lipids. Risk factors include smoking, dietary habits, physical inactivity, body fat distribution, and certain medications. 
 
 ![IMG_1136](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/409e3b68-f725-45eb-a5f7-a18ce977eb22)
 
@@ -181,9 +194,11 @@ The primary treatment for MetS is to reduce the risk of developing CVD and type 
 
 ## Pulmonary Disorders: Chronic obstructive pulmonary disease (COPD) 
 
+A condition, such as asthma, bronchitis, or emphysema, where chronic obstruction of air flow. 
+
 - Asthma
 
-Approx 80% of people with asthma experience attacks during and/or after exercise (EIB, exercise-induced bronchoconstriction). Before starting an exercise program, a physician can provide guidance regarding potential triggers, medication use, and what to do in case of an asthmatic episode. Clients should have rescue medication with them all the time.
+Approx 80% of people with asthma experience attacks during and/or after exercise (EIB, exercise-induced bronchoconstriction - temporary narrowing of the airways). Before starting an exercise program, a physician can provide guidance regarding potential triggers, medication use, and what to do in case of an asthmatic episode. Clients should have rescue medication with them all the time.
 
 ![IMG_1141](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/eab82956-5adb-407b-84cb-a47955ff1bdb)
 
@@ -195,10 +210,24 @@ Individuals with asthma should be encouraged to perform a 10-15 minute warm-up. 
 
 - Cancer
 
+The top 5 behavioral and dietary risk factors include high BMI, low consumption of fruits and veggies, physical inactivity, tobacco, and alcohol. 
+
 ![IMG_1142](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/30647797-822a-4999-bf8e-e15b74972d1a)
 
 - Osteoporosis (low bone bass and disrupted microarchitecture)
 
+primarily affect postmenopausal women. Bone density decreases and susceptibility to fractures increases. risk factors include reproductive hormone levels, calcium and vitamin D intake, and physical activity. 
+
+Emphasize weight-bearing, large-muscle-group activities such as walking, and stair climbing. 
+
 - Arthritis
+
+Most cases are rheumatoid arthritis, caused by inflammation of connective tissues and joints. 
+
+Osteoarthritis: degenerative disease involving the wearing away of joint cartilage. Causes include overuse, trauma, obesity, and age
+
+High-impact activities such as running are not recommended. Instead, use a variety of low-impact rhythmic large-muscle-group exercises like walking, cycling, and swimming. Note small amout of discomfort in the muscles or joints during or immediately after exercise does not necessarily mean further joint damage. However, pain lasting longer than 2 hours after exercise indicates the need to reduce duration and/or intensity. 
+
+
 
 
