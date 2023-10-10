@@ -23,6 +23,10 @@ Cardiac output = HR * SV (stroke volume): at rest average 5 liters/min; during m
 
 ![IMG_1034](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/b227c009-20f1-4d3a-9fee-85acfeeb1b24)
 
+At VT1, carbohydrates become the primary fuel source; at VT2, increase of lactate in the blood. To measure: warmup at least 5 minutes (HR blow 120), when HR reaches 120, start by increasing climation 1% each time, then talk test, once uncomfortable talking shows, then it's VT1; maintain high intensity for 20 minutes, record HR at the last 5 minutes each minute, then use average * 95% as VT2
+
+A VT assessment is not appropriate for anyone has asthma or COPD, as well as anxiety attacks, or recovering from a recent respiratory infection. 
+
 
 ## Physiological Adaptations to Acute and Chronic Cardiorespiratory Exercise
 
