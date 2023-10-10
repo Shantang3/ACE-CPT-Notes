@@ -57,7 +57,7 @@ Expected change and time: in 2-3 months, reduce body fat by 2.7-5.9% or waist ci
 
 BMI = Weight(kg) / Height(m)^2 or 703* Weight (lb)/Height(in)^2. 
 
-BMI does NOT estimate actual body composition, and thus can incorrectly categorize some individuals. Only using it might be inacurate. 
+BMI does NOT estimate actual body composition, and thus can incorrectly categorize some individuals. Only using it might be inaccurate. For extremely muscular individuals, MBI may incorrectly categorize.
 
 ![IMG_1030](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/d3d42add-aefb-43b3-bf9b-ea51852d38a6)
 
