@@ -2,6 +2,11 @@
 
 ![IMG_0992](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/efc2ddd8-2708-4bfa-bc20-1ecd581b1e53)
 
+## Some general guidelines:
+
+Weekly or biweekly exercise duration progression for cardio training over the first 4-6 weeks of training a new client: 10%. 
+
+Cardio interval is typically introduced during fitness training. Anaerobic power is typically performed during performance traning. 
 
 ## Evidence-based Practice (EBP)
 
@@ -11,7 +16,7 @@ The client, PT expertise and experience, and research findings.
 
 Formulate (a question) > search (for health and fitness research evidence) > scrutinize (the quality of research evidence) > incorporate (the evidence into program design and implementation) > evaluate (outcomes and periodically reevaluate) > formulate again > ...
 
-Pay attention: search for bias, read the research, evaluate for truth (avoid overstating or over generilization), and look for consensus. 
+Pay attention: search for bias, read the research, evaluate for truth (avoid overstating or overgeneralization), and look for consensus. 
 
 ![IMG_1108](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/49550fb1-587a-4e07-b6cb-a5714a878b0e)
 
