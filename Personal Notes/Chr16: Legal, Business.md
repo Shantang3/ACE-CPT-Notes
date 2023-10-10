@@ -61,7 +61,9 @@ Medical history, Exercise record, Incident report, Correspondence (eg. HIPAA per
 
 Facilities, equipment (esp AEDs and CPR), supervision, instruction.
 
-- Gross negligence: an action that demonstrates recklessness or willful disregard for the safety of the client.
+- Gross negligence: an action that demonstrates recklessness or willful disregard for the safety of the client. Proximate causation must be established to substantiate a charge of negligence in court.
+
+Vs. contributory negligence: the client fails to disclose they're on medicine. 
 
 Be cautious if the activities are outdoors (permissions, safety issues like surrounding and weather). As an employee, will need to check if the facility's liability insurance covers offsite.
 
