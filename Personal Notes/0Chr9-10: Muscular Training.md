@@ -8,7 +8,15 @@
 
 Axial skeleton (74) - central nervous system,  Appendicular skeleton (remaining 126), articulations - synovial joint (The most common type of joint, freely movable; 4 angular movements include flexion, extension, abduction, adduction)
 
-- The planes of motion: sagittal - divides the body into right and left halves; transverse - divides the body into superior and inferior halves; frontal - divides the body into anterior and posterior halves. Flexion occurs in the sagittal plane of motion. 
+- The planes of motion: sagittal - divides the body into right and left halves; transverse - divides the body into superior and inferior halves; frontal - divides the body into anterior and posterior halves. Flexion occurs in the sagittal plane of motion.
+
+Sagittal: plantar flexion/dorsiflexion, extension/flexion, eversion, 
+
+Frontal: adduction/abduction, inversion, elevation, depression, 
+
+Transverse: Supination, horizontal extension/flexion, pronation, rotation
+
+Multiplanar: opposition, circumduction
 
 ![IMG_1051](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/36ebc1bb-dc65-442a-87ac-e6be32733585)
 
