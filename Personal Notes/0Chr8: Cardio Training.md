@@ -84,6 +84,8 @@ Current guidelines recommend physical activity be performed on most days of the 
 
 * Rating of perceived exertion (RPE): subjective.
 
+![Screenshot 2023-10-09 at 8 33 35 PM](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/a4f8114f-6f0e-4468-9f7d-91d5bcfd1d8b)
+
 - Duration (time): the most appropriate variable to manipulate initially when progressing a program.
 
 - Type: equipment-based cardio exercise, circuit training, outdoor exercise, water exercise
