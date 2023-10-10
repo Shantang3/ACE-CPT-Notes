@@ -118,15 +118,15 @@ Volumn = sets * reps * weight load (for load-volume calculation). Typically lowe
 
 5. a powerlifter who performs single-effort events: sets 3-5, repetitions 1-2, rest interval: 2-5min, intensity: 80-90% of 1RM (one-repetition max)
 
-6. A client who wants to lose weight, but a bit apprehensive about muscular training of "getting big": explain the average adults muscle-tissue loss of 5 lb per decade, and how resistance training can help her restore list muscle and raising resting metablism.  
+6. A client who wants to lose weight, but a bit apprehensive about muscular training of "getting big": explain the average adults' muscle-tissue loss of 5 lb per decade, and how resistance training can help her restore lost muscle and raise resting metabolism.  
 
 
 
 ## Components of a Muscular-Training Session.
 
-- Warm-up: 5-10 minutes, lightweight, take into account all planes of motion. Focus on the movement patterns planned for the rest of the workout.
+- Warm-up (active proprioceptors, improve balance and coordination, increase blood flow, enhance the elasticity of connective tissues): 5-10 minutes, lightweight, take into account all planes of motion. Focus on the movement patterns planned for the rest of the workout.
 
-- Conditioning: frequency, duration, intensity, and modality. 
+- Conditioning: client goals, frequency, duration, intensity, rest intervals, and modality. 
 
 - Cool-down: stress reduction, return heart rate to resting levels, and initiate relation and the recovery process.
 
