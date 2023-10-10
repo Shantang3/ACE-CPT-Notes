@@ -6,7 +6,11 @@
 
 Weekly or biweekly exercise duration progression for cardio training over the first 4-6 weeks of training a new client: 10%. 
 
-Cardio interval is typically introduced during fitness training. Anaerobic power is typically performed during performance traning. 
+Cardio interval is typically introduced during fitness training. Anaerobic power is typically performed during performance training. At performance training, 70-80% of the time should be spent in zone 1. 
+
+6 seconds is the commonly recommended training tempo for new exercises. 
+
+High-intensity activities should be performed close to the beginning of the conditioning portion when the client is less likely to be fatigued. Plyometric drills is most appropriate to be performed at the beginning, following a dynamic warm-up. 
 
 ## Evidence-based Practice (EBP)
 
