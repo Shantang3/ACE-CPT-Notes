@@ -22,7 +22,7 @@ Flexibility of schedule and pricing are the MOST likely things to give up when s
 
 ## Important Legal Forms: signed contract
 
-Having all parties sign a contract is the best method to ensure that all aspects of a relationship are properly established. 
+Having all parties sign a contract is the best method to ensure that all aspects of a relationship are properly established. Documentation provides info with which to make decisions about future programing and also serves as a historical record should you need it for legal situations. 
 
 ![IMG_1173](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/2bba3e58-04f1-46b6-9725-3cc5c5af26de)
 
@@ -60,6 +60,15 @@ Medical history, Exercise record, Incident report, Correspondence (eg. HIPAA per
 ## Legal Responsibilities
 
 Facilities, equipment (esp AEDs and CPR), supervision, instruction.
+
+- Gross negligence: an action that demonstrates recklessness or willful disregard for the safety of the client.
+
+Be cautious if the activities are outdoors (permissions, safety issues like surrounding and weather). As an employee, will need to check if the facility's liability insurance covers offsite.
+
+Make sure you have an emergency response plan and contacts available. 
+
+For online training, be cautious about the scope of practice, insurance, 
+
 
 ## Scope of Practice
 
