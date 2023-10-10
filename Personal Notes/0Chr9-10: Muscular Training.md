@@ -8,7 +8,7 @@
 
 Axial skeleton (74) - central nervous system,  Appendicular skeleton (remaining 126), articulations - synovial joint (The most common type of joint, freely movable; 4 angular movements include flexion, extension, abduction, adduction)
 
-The planes of motion: sagittal - divides the body into right and left halves; transverse - divides the body into superior and inferior halves; frontal - divides the body into anterior and posterior halves. Flexion occurs in the sagittal plane of motion. 
+- The planes of motion: sagittal - divides the body into right and left halves; transverse - divides the body into superior and inferior halves; frontal - divides the body into anterior and posterior halves. Flexion occurs in the sagittal plane of motion. 
 
 ![IMG_1051](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/36ebc1bb-dc65-442a-87ac-e6be32733585)
 
@@ -33,6 +33,7 @@ Slow-twitch muscle fiber: type 1, contains a relatively large amount of mitochon
 Fast-twitch muscle fiber (type 2): TypeIIx or fast-glycolytic fibers >> contain a relatively small amount of mitochondria and limited aerobic metabolism; however possess a high number of glycolytic enzymes; TypeIIa or intermediate/fast oxidative glycolytic fibers >> speed, fatigue resistance, and force-production capabilities, for strength and power activities.
 
 
+
 ## Connective Tissue
 
 "Cellular glue" that made up of dozens of proteins, including collagen. Collagen's physical properties are mainly tensile strength and inextensibility. Elastic fibers are made up of amino acids and are mainly responsible for determining the range of extensibility of muscle cells. 
@@ -42,7 +43,7 @@ Fast-twitch muscle fiber (type 2): TypeIIx or fast-glycolytic fibers >> contain 
 
 Synergist muscles assist the agonist in causing a desired action. Co-contraction happens when the agonist and antagonist contract together to foster joint stability
 
-- Muscular action: static (isometric) action - balance and stabilization training; concentric (shortening) action; eccentric (lengthening action).
+- Muscular action: Proprioceptive neuromuscular facilitation (PNF); static (isometric) action - balance and stabilization training; concentric (shortening) action - isotonic muscle contraction in which the muscle develops tension and shortens when stimulated; eccentric (lengthening action) - isotonic muscle contraction in which the muscle lengthens against a resistance.
 
 - Kinetic chain movement: closed-kinetic-chain exercises >> end of the chain is fixed such as squat, emphasize compression of joints; Open-kinetic-chain exercises >> end of the chain is free such as seated leg extension, involve more shearing forces at the joint.
 
@@ -69,6 +70,8 @@ Factors that influence muscular strength and hypertrophy: hormone levels, sex, a
 
 
 ## Muscular Training Principles
+
+Most will be anaerobic (without the presence of oxygen). For muscular hypertrophy goals, a rest interval of 2-5 minutes is recommended for full recovery of ATP. 
 
 Be aware of delayed-onset muscle soreness (DOMS): exceptionally challenging training sessions are typically associated with several days of muscle fatigue and weakness, they may not lead to larger and stronger muscles. 
 
