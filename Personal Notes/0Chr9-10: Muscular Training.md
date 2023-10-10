@@ -6,7 +6,7 @@
 
 ![IMG_1049](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/1f3fee88-b08a-400b-bb4e-edf7a03d44cf)
 
-Axial skeleton (74) - central nervous system,  Appendicular skeleton (remaining 126), articulations - synovial joint (The most common type of joint, freely movable; 4 angular movements include flexion, extension, abduction, adduction)
+Axial skeleton (74) - central nervous system (sacrum of the spine consists of 5 fused vertebrae),  Appendicular skeleton (remaining 126), articulations - synovial joint (The most common type of joint, freely movable; 4 angular movements include flexion, extension, abduction, adduction). 
 
 - The planes of motion: sagittal - divides the body into right and left halves; transverse - divides the body into superior and inferior halves; frontal - divides the body into anterior and posterior halves. Flexion occurs in the sagittal plane of motion.
 
