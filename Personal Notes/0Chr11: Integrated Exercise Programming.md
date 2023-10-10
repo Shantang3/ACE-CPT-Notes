@@ -93,6 +93,8 @@ Strategy #4: combined cardio and muscular training is an antidote to detraining.
 
 ## Recovery
 
+![Screenshot 2023-10-09 at 9 39 11 PM](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/523eca59-7fb5-4b14-9d5c-c5e25fa0f410)
+
 Frequency, intensity, time/duration, type between bouts (active or passive).
 
 Applications: program active recovery (superior to passive recovery); program-specific recovery intensities, program gait
