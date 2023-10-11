@@ -2,6 +2,8 @@
 
 ## Exercise and Youth
 
+In general: make it fun, apply ACE IFT, move in three planes of motion, inspire, and change it up. 
+
 Understand the child and their interest and motivations; muscle-strengthening (build bone density) activities don't have to be structured, but can instead be incorporated into play and games. 
 
 Children have different risk factors than adults: the epiphyseal plate, or growth plate, is a cartilaginous area of the bone that is not fully formed in youth - improper form, repetitive impact, and torque may increase the risk of injury. Never encourage children to perform single maximal lifts or sudden explosive movements. Overuse injuries and sports-related traumatic injuries occur due to an increase in "sport specialization" and year-round single-sport play. A PT must also remember the principles of periodization.
@@ -42,7 +44,7 @@ Exercise for diastasis recti: quadruped transverse abdominal isometric contracti
 
 Physiological results of aging include a decline in fitness levels, loss of height, reduced lean body bass, loss of skin and connective tissue elasticity, slower healing, changes in eyesight, and reduced coordination. 
 
-Conducting posture and flexibility assessment before movement assessment is especially important, considering arthritis is prevalent in this population. 
+Conducting posture and flexibility assessment before movement assessment is especially important, considering arthritis is prevalent in this population. Balance training is particularly important. 
 
 ![IMG_1148](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/6fa2cbde-96bf-4e7f-9d9a-b0bd74fc220e)
 
@@ -50,6 +52,10 @@ Recommendation: participate in exercise at the same level as other adults, perfo
 
 
 # Chr15: Considerations for Clients with Musculoskeletal Issues
+
+Outside of scope of practice: evaluation, assessment, or diagnosis of pain and injury.
+
+Within the scope of practice: engage in assessments/observation of movement efficiency; select stretches/exercises for improved function; create programs that consider client goals and limitations. 
 
 ## Common Injuries and Reactions to Healing
 
