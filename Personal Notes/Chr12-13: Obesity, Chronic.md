@@ -1,6 +1,6 @@
 # Chr12: Considerations for Clients with Obesity
 
-General consideration: emphasize total energy expenditure (e.g. walk/run distance), challenges clients with obesity might face when exercising in the heat - modify intensity; skin chafing and potential joint concerns; the psychological impact of certain types of exercise (aquatic exercise); mobility or balance challenges; lifestyle physical activity (non-exercise activity thermogenesis, NEAT).
+General consideration: emphasize total energy expenditure (e.g. walk/run distance), challenges clients with obesity might face when exercising in the heat - modify intensity; skin chafing and potential joint concerns; the psychological impact of certain types of exercise (aquatic exercise); mobility or balance challenges; lifestyle physical activity (non-exercise activity thermogenesis, NEAT).150-250 minutes is the most appropriate amount of weekly exercise. 
 
 ## Possible causes of obesity
 
@@ -103,6 +103,8 @@ Results when the coronary arteries are narrowed or occluded, most commonly by at
 Nutrition: A healthy diet pattern (5 primary and three secondary metrics): fruit and vegetables >4.5 cups/day, fish and shellfish >2 3.5 oz servings/week, sodium <1500 mg/day, sugar/sweetened beverages < 36fl oz/week, whole grains >3 1 oz servings/day; 1 oz of nuts and seed and 1/2 cup legumes >4 servings/week; processed meats < 2 1.75 0z servings/week, saturated fat <7% of total daily energy intake.  
 
 Exercise: regular, moderate-intensity (40-80% HRR/VO2R or RPE OF 12/16 (6-20 scale) or add 20-30 bpm to RHR), physical activity for at least 150 minutes per week and muscle-strengthening activities on at least two days per week. It is most appropriate for PT to work with low-rish CAD clients (an uncomplicated clinical course, no evidence of resting or exercise-induced ischemia/arrhythmias, functionally capacity > 7 METs three weeks following any medical event, normal ventricular  function with an ejection fraction> 50%). 
+
+The best initial program design: use free weight (40-60% 1RM), complete one set of all major muscle groups.
 
 - Hypertension (130/80 mmHg)
 
@@ -220,13 +222,17 @@ primarily affect postmenopausal women. Bone density decreases and susceptibility
 
 Emphasize weight-bearing, large-muscle-group activities such as walking, and stair climbing. 
 
+For muscular training, 2-3 days/week, 50-80% of 1RM, 2-4 sets of 8-12 exercises. Initially 1-2 nonconsecutive days/week. 
+
 - Arthritis
 
-Most cases are rheumatoid arthritis, caused by inflammation of connective tissues and joints. 
+At increased risk of cardiovascular disease. 
+
+Most cases are rheumatoid arthritis, caused by inflammation of connective tissues and joints. The primary goal of program is to strengthen the muscles around affected joints.
 
 Osteoarthritis: degenerative disease involving the wearing away of joint cartilage. Causes include overuse, trauma, obesity, and age
 
-High-impact activities such as running are not recommended. Instead, use a variety of low-impact rhythmic large-muscle-group exercises like walking, cycling, and swimming. Note small amout of discomfort in the muscles or joints during or immediately after exercise does not necessarily mean further joint damage. However, pain lasting longer than 2 hours after exercise indicates the need to reduce duration and/or intensity. 
+High-impact activities such as running are not recommended. Instead, use a variety of low-impact rhythmic large-muscle-group exercises like walking, cycling, and swimming. Note small amount of discomfort in the muscles or joints during or immediately after exercise does not necessarily mean further joint damage. However, pain lasting longer than 2 hours after exercise indicates the need to reduce duration and/or intensity. 
 
 
 
