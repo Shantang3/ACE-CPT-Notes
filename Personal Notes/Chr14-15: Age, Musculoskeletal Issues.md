@@ -2,7 +2,7 @@
 
 ## Exercise and Youth
 
-In general: make it fun, apply ACE IFT, move in three planes of motion, inspire, and change it up. 
+In general: make it fun, apply ACE IFT, move in three planes of motion, inspire, and change it up. Recommended frequency of aerobic activity is seven days per week.
 
 Understand the child and their interest and motivations; muscle-strengthening (build bone density) activities don't have to be structured, but can instead be incorporated into play and games. 
 
@@ -20,7 +20,7 @@ Children might be at greater risk of heat-related illness than adults: higher ra
 
 - Pregnancy
 
-It is important that PTs request medical clearance from a physician if the woman also has obstetric or medical comorbidities such as severe obesity, gestational diabetes, or hypertension. Current recommendations support moderate-intensity exercise for at least 140 minutes three days per week during normal pregnancy. 
+It is important that PTs request medical clearance from a physician if the woman also has obstetric or medical comorbidities such as severe obesity, gestational diabetes, or hypertension. Current recommendations support moderate-intensity exercise for at least 140 minutes three days per week during normal pregnancy. ACOG recommend 150 minutes over three days per week. 
 
 ![IMG_1147](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/5e5ed5b9-1746-46af-ae84-780a16d6da5f)
 
@@ -35,7 +35,7 @@ A focus early in the pregnancy on posterior leg and trunk strength can help read
 
 For the woman who wishes to resume exercise shortly after delivery: obtain physician clearance and guidelines first; begin slowly and gradually increase duration, frequency, and intensity; exercise to strengthen major groups; drink plenty of water. It is essential to take into consideration a healing C-section or the presence of diastasis recti. 
 
-To consider: shifting hormone levels, fatigue, postpartum anemia, and diastasis recti or healing of C-section incision. 
+To consider shifting hormone levels, fatigue, postpartum anemia, and diastasis recti or healing of C-section incision. 
 
 Exercise for diastasis recti: quadruped transverse abdominal isometric contraction. wide-stance squats with dumbbells, bridges (with a yoga block between tighs), bent-knee, alternate-leg heel taps (death bugs), bird dog. 
 
@@ -49,6 +49,8 @@ Conducting posture and flexibility assessment before movement assessment is espe
 ![IMG_1148](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/6fa2cbde-96bf-4e7f-9d9a-b0bd74fc220e)
 
 Recommendation: participate in exercise at the same level as other adults, performing moderate-intensity cardio for a minimum of 150 to 400 minutes each week or vigorous-intensity cardio for 75-150 minutes per week. However, be cautious about chronic diseases such as arthritis. Balance training is recommended. 
+
+Avoid ballistic stretching. 
 
 
 # Chr15: Considerations for Clients with Musculoskeletal Issues
@@ -66,6 +68,8 @@ Within the scope of practice: engage in assessments/observation of movement effi
 Phase I - inflammation (3-4 days after injury): implement RICE (rest or restricted activity, ice, compression, and elevation). Phase II - repair (consists of both repair and regeneration of tissue; may overlap with inflammation and last approx 6 weeks). Phase III - remodeling (overlaps with repair at about 3-6 weeks post-injury; healing, especially of ligament and bone, can last 1-2 years). 
 
 At pain levels above 3 out of 10 the exercise should stop and modified. 
+
+Static stretching is the most effective for post-injury. 
 
 #### Common Acute Injuries
 
