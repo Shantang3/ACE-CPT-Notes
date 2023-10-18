@@ -74,7 +74,7 @@ Current guidelines recommend physical activity be performed on most days of the 
 
 * Targeted HR (THR) = HRR * %intensity + RHR, where HRR=MHR-RHR
 
-* VO2 and metabolic equivalent (METs): minimal improvement in VO2 max threshold - 40/50% of VO2 max and VO2R. Requires measured VO2 for the most accurate programming; limited in programming by knowledge of METs for given activities; relative MET ranges for programming are population-based nut individual specific. 
+* VO2 and metabolic equivalent (METs - oxygen consumption at rest): minimal improvement in VO2 max threshold - 40/50% of VO2 max and VO2R. Requires measured VO2 for the most accurate programming; limited in programming by knowledge of METs for given activities; relative MET ranges for programming are population-based nut individual specific. 
 
 * Caloric expenditure
 
