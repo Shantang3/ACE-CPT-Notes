@@ -140,7 +140,7 @@ Through cardio assessment, heart rate should be monitored continuously; RPEs sho
 
 - Fitness training:
   
-- Performance Training: for clients who have endurance-performance objectives and/or competitive endurance goals. Focus on anaerobic power
+- Performance Training: for clients who have endurance-performance objectives and/or competitive endurance goals. Focus on anaerobic power (anaerobic-power training is the highest level of work).
 
 
 ## E.G. THR Calculation
