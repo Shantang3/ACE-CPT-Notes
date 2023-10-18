@@ -4,6 +4,8 @@
 
 ## Some general guidelines:
 
+ACSM: 3-5 days per week of cardio, 2-3 days per week of resistance training. 
+
 Weekly or biweekly exercise duration progression for cardio training over the first 4-6 weeks of training a new client: 10%. 
 
 Cardio interval is typically introduced during fitness training. Anaerobic power is typically performed during performance training. At performance training, 70-80% of the time should be spent in zone 1. 
