@@ -100,7 +100,7 @@ Current guidelines recommend physical activity be performed on most days of the 
 
 ## Assessments
 
-Through cardio assessment, heart rate should be monitored continuously; RPEs should be takin once every minute. 
+Through cardio assessment, heart rate should be monitored continuously; RPEs should be taken once every minute. It is important to determine if an individual is experiencing cardiovascular drift.
 
 ![IMG_1041](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/285dd50c-f990-45a1-a240-33fddc8358b4)
 
