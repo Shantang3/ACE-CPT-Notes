@@ -100,6 +100,8 @@ Current guidelines recommend physical activity be performed on most days of the 
 
 ## Assessments
 
+Through cardio assessment, heart rate should be monitored continuously; RPEs should be takin once every minute. 
+
 ![IMG_1041](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/285dd50c-f990-45a1-a240-33fddc8358b4)
 
 ![IMG_1042](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/6ca2c1f6-a24b-4e28-88b9-209e4c318cff)
