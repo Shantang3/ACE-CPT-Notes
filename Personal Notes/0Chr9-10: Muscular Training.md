@@ -211,7 +211,7 @@ Reach for three directions anterior, posteromedial, and posterolateral; 6 ft * 6
 
 ## McGrill's torso muscular endurance test battery: 
 
-- Trunk flexor endurance test: rectus abdominis, external and internal obliques, and transverse abdominis; somatic contraction of anterior muscles
+- Trunk flexor endurance test: rectus abdominis, external and internal obliques, and transverse abdominis; somatic contraction of anterior muscles. Not suitable for low-back pain, recent back surgery, acute low-back flare-up. 
   
 - Trunk lateral endurance test, or side-bridge test: lateral core muscles - transverse abdominis, oblique, quadratus lumborum, and erector spinae. 
 
