@@ -211,7 +211,13 @@ Reach for three directions anterior, posteromedial, and posterolateral; 6 ft * 6
 
 ## McGrill's torso muscular endurance test battery: 
 
-Trunk flexor endurance test, trunk lateral endurance test, trunk extensor endurance test >> total test battery interpretation: flexion: extension ratio should be less than 1.0; right-side bridge:left-side bridge should be no greater than 0.05 from a balanced score of 1.0; side bridge: extension ratio should be less than 0.75.
+- Trunk flexor endurance test: rectus abdominis, external and internal obliques, and transverse abdominis; somatic contraction of anterior muscles
+  
+- Trunk lateral endurance test, or side-bridge test: lateral core muscles - transverse abdominis, oblique, quadratus lumborum, and erector spinae. 
+
+- Trunk extensor endurance test: torso extensor muscles - erector spinae and multifidi.
+
+- Total test battery interpretation: flexion: extension ratio should be less than 1.0; right-side bridge:left-side bridge should be no greater than 0.05 from a balanced score of 1.0; side bridge: extension ratio should be less than 0.75.
 
 #### Flexibility Assessments - normal range of motion (NRM)
 
