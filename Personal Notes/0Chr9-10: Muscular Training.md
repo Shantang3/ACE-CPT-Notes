@@ -282,6 +282,10 @@ Perform five primary movements effectively in all three planes of motion without
 
 ![IMG_1098](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/37095b68-bbd7-4cfd-a87d-a188fe4af100)
 
+Note that the lumbar spine generally exhibits limited rotation of around 15 degrees with the balance of trunk rotation. 
+
+
+
 ## Load/Speed Assessments
 
 - Muscular-endurance assessments: push-ups (full elbow extension with a straight back and rigid torso, chest touching the personal trainer's fist or a rolled towel without resting), body-weight squats.
