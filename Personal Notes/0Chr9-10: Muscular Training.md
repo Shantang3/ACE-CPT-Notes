@@ -49,7 +49,9 @@ Fast-twitch muscle fiber (type 2): TypeIIx or fast-glycolytic fibers >> contain 
 
 ## Human Motion Terminology
 
-Synergist muscles assist the agonist in causing a desired action. Co-contraction happens when the agonist and antagonist contract together to foster joint stability
+Synergist muscles assist the agonist in causing a desired action. Co-contraction happens when the agonist and antagonist contract together to foster joint stability.
+
+A muscle that creates a major movement is called a prime mover, or agonist; the muscle on the opposite is called an opposing muscle, or antagonist. 
 
 - Muscular action: Proprioceptive neuromuscular facilitation (PNF); static (isometric) action - balance and stabilization training; concentric (shortening) action - isotonic muscle contraction in which the muscle develops tension and shortens when stimulated; eccentric (lengthening action) - isotonic muscle contraction in which the muscle lengthens against a resistance.
 
