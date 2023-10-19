@@ -170,6 +170,8 @@ The program is a combination of exercises completed by clients on their own and 
 - For visual learners, demonstration is the best strategy. 
 
 Stages of learning: Cognitive - try to understand the new skills; associative stage - begin to master the basics and ready for more specific feedback; autonomous stage - perform motor skills effectively and naturally. 
+
+Cognitive behavioral techniques: feedback, self-monitoring, decision-making, and goal setting. 
   
 ![IMG_1010](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/ac07b689-0bdb-4a8e-884f-7318563bda67)
 
