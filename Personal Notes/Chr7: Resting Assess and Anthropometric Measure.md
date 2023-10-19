@@ -29,7 +29,7 @@ Note that not all clients need or desire a full fitness assessment as they come 
 
 Heart Rate is a valid indicator of work intensity or stress during the exercise. One of the possible over-training indicators: 5 mpm higher in RHR than normal. 
 
-- Blood pressure (BP, right arm): systolic BP (SBP) - higher number and represents the pressure created by the heart as it pumps blood into circulation via ventricular contraction; diastolic BP (DBP) - lower number.
+- Blood pressure (BP, measureed at brachial artery usually right arm): systolic BP (SBP) - higher number and represents the pressure created by the heart as it pumps blood into circulation via ventricular contraction; diastolic BP (DBP) - lower number.
 
 ![IMG_1028](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/8285ff3e-0b3c-42bb-ab51-c36c2570d4d9)
 
