@@ -12,7 +12,7 @@ Axial skeleton (74) - central nervous system (sacrum of the spine consists of 5 
 
 Sagittal: plantar flexion/dorsiflexion, extension/flexion, eversion, 
 
-Frontal: adduction/abduction, inversion, elevation, depression, 
+Frontal: adduction/abduction(away from body), inversion, elevation, depression, 
 
 Transverse: Supination, horizontal extension/flexion, pronation, rotation
 
