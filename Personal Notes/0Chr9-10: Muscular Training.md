@@ -54,7 +54,7 @@ Synergist muscles assist the agonist in causing a desired action. Co-contraction
 A muscle that creates a major movement is called a prime mover, or agonist; the muscle on the opposite is called an opposing muscle, or antagonist. 
 
 #### Type of muscular action 
-- Static (isometric) action - balance and stabilization training. E.g. holding the torso upright during V-sit; a brief hold at the top of push-up, quadriceps in a wall sit. 
+- Static (isometric) action - balance and stabilization training. E.g. holding the torso upright during V-sit; a brief hold at the top of push-up, and quadriceps in a wall sit. 
 
 - Concentric (shortening) action - isotonic muscle contraction in which the muscle develops tension and shortens when stimulated; E.g. biceps brachii in the lift phase of a bicep curl. 
 
@@ -236,6 +236,8 @@ Reach for three directions anterior, posteromedial, and posterolateral; 6 ft * 6
 
 #### Flexibility Assessments - normal range of motion (NRM)
 
+Joint capsule has the most influence over flexibility
+
 ![IMG_1085](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/181fae1d-236f-4076-9ece-7756056968bf)
 
 ![IMG_1086](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/9f9a0c08-7fe4-44e5-b983-37b524e71220)
@@ -272,7 +274,9 @@ Perform five primary movements effectively in all three planes of motion without
   
 - Quadriceps dominance: more pressure into the knees, placing greater loads on ACL.
   
-- Glute dominance: preferred method of squatting, also helps activate hamstrings. 
+- Glute dominance: preferred method of squatting, also helps activate hamstrings.
+
+The biggest issue people face is not enough ankle dorsiflexion. 
 
 ![IMG_1092](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/c6dc48a7-f150-4ac8-9eff-48824af50958)
 
