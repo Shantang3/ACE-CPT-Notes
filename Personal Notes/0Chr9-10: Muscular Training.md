@@ -54,7 +54,7 @@ Synergist muscles assist the agonist in causing a desired action. Co-contraction
 A muscle that creates a major movement is called a prime mover, or agonist; the muscle on the opposite is called an opposing muscle, or antagonist. 
 
 #### Type of muscular action 
-- Static (isometric) action - balance and stabilization training. E.g. holding the torso upright during V-sit; a brief hold at top of push up. 
+- Static (isometric) action - balance and stabilization training. E.g. holding the torso upright during V-sit; a brief hold at the top of push-up, quadriceps in a wall sit. 
 
 - Concentric (shortening) action - isotonic muscle contraction in which the muscle develops tension and shortens when stimulated; E.g. biceps brachii in the lift phase of a bicep curl. 
 
