@@ -70,6 +70,8 @@ A muscle that creates a major movement is called a prime mover, or agonist; the 
 
 Mobility - ankle, hip, thoracic spine, glenohumeral; stability - foot, knee, lumber pine, scapulothoracic.
 
+The shoulder joint is considered the most mobile. 
+
 ![IMG_1066](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/9ecf3775-e588-40fb-a5d9-5b4e6979b1ce)
 
 Other: Balance and alignment: Center of gravity (COG), line of gravity, and base of support (BOS). 
