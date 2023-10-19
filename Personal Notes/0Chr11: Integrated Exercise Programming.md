@@ -4,7 +4,7 @@
 
 ## Some general guidelines:
 
-ACSM: 3-5 days per week of cardio, 2-3 days per week of resistance training. 
+ACSM: 3-5 days per week of cardio, 2-3 days per week of resistance training (same for the youth). 
 
 Weekly or biweekly exercise duration progression for cardio training over the first 4-6 weeks of training a new client: 10%. 
 
@@ -12,7 +12,9 @@ Cardio interval is typically introduced during fitness training. Anaerobic power
 
 6 seconds is the commonly recommended training tempo for new exercises. 
 
-High-intensity activities should be performed close to the beginning of the conditioning portion when the client is less likely to be fatigued. Plyometric drills is most appropriate to be performed at the beginning, following a dynamic warm-up. 
+10 minutes is the minimum bout of aerobic exercise. 
+
+High-intensity activities should be performed close to the beginning of the conditioning portion when the client is less likely to be fatigued. Plyometric drills are most appropriate to be performed at the beginning, following a dynamic warm-up. 
 
 ## Evidence-based Practice (EBP)
 
