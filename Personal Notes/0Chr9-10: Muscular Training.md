@@ -53,15 +53,26 @@ Synergist muscles assist the agonist in causing a desired action. Co-contraction
 
 A muscle that creates a major movement is called a prime mover, or agonist; the muscle on the opposite is called an opposing muscle, or antagonist. 
 
-- Muscular action: Proprioceptive neuromuscular facilitation (PNF); static (isometric) action - balance and stabilization training; concentric (shortening) action - isotonic muscle contraction in which the muscle develops tension and shortens when stimulated; eccentric (lengthening action) - isotonic muscle contraction in which the muscle lengthens against a resistance.
+#### Type of muscular action 
+- Static (isometric) action - balance and stabilization training. E.g. holding the torso upright during V-sit; a brief hold at top of push up. 
 
-- Kinetic chain movement: closed-kinetic-chain exercises >> end of the chain is fixed such as squat, emphasize compression of joints; Open-kinetic-chain exercises >> end of the chain is free such as seated leg extension, involve more shearing forces at the joint.
+- Concentric (shortening) action - isotonic muscle contraction in which the muscle develops tension and shortens when stimulated; E.g. biceps brachii in the lift phase of a bicep curl. 
 
-- Mobility and stability: mobility - ankle, hip, thoracic spine, glenohumeral; stability - foot, knee, lumber pine, scapulothoracic.
+- Eccentric (lengthening action) - isotonic muscle contraction in which the muscle lengthens against a resistance. E.g. biceps brachii in the lowering phase of a bicep curl. 
+
+#### Kinetic chain movement: 
+
+- Closed-kinetic-chain exercises >> end of the chain is fixed such as squat, emphasize compression of joints;
+
+- Open-kinetic-chain exercises >> end of the chain is free such as seated leg extension, involve more shearing forces at the joint.
+
+#### Mobility and stability: 
+
+Mobility - ankle, hip, thoracic spine, glenohumeral; stability - foot, knee, lumber pine, scapulothoracic.
 
 ![IMG_1066](https://github.com/Shantang3/ACE-CPT-Notes/assets/25567822/9ecf3775-e588-40fb-a5d9-5b4e6979b1ce)
 
-- Balance and alignment: Center of gravity (COG), line of gravity, and base of support (BOS). 
+Other: Balance and alignment: Center of gravity (COG), line of gravity, and base of support (BOS). 
 
   
 
