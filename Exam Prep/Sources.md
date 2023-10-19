@@ -1,12 +1,11 @@
 # Online sources
 
-750, $40: https://www.tests.com/ACE-Personal-Trainer-Practice-Exam-Kit 
+Highly recommend: https://www.tests.com/ACE-Personal-Trainer-Practice-Exam-Kit (750Q, $40)
 
-Free practice: https://www.ptpioneer.com/ace-practice-exams/#ACE_Exam_Tips 
+Free practice: https://www.ptpioneer.com/ace-practice-exams/#ACE_Exam_Tips (The webpage might be unstable from time to time)
 
-275q, $40: https://www.certification-questions.com/practice-exam/ace-fitness/ace-personal-trainer
+https://www.certification-questions.com/practice-exam/ace-fitness/ace-personal-trainer (275q, $40)
 
-360q, one-month, $25: https://www.test-questions.com/personal-trainer-exam-questions-16.php
+https://www.test-questions.com/personal-trainer-exam-questions-16.php (360q, one-month, $25)
 
-100q, free: https://www.dumpsbase.com/freedumps/real-ace-personal-trainer-dumps-questions-and-answers.html 
-* MIGHT BE A LOT OF WRONG ANSWERS
+https://www.dumpsbase.com/freedumps/real-ace-personal-trainer-dumps-questions-and-answers.html (100q, free; CAUTION! might have a lot of wrong answers)
