@@ -68,7 +68,9 @@ A muscle that creates a major movement is called a prime mover, or agonist; the 
 
 #### Mobility and stability: 
 
-Mobility - ankle, hip, thoracic spine, glenohumeral; stability - foot, knee, lumber pine, scapulothoracic.
+- Mobility: range of uninhibited movement around a joint - ankle, hip, thoracic spine, glenohumeral.
+
+- Stability: the ability to maintain or control movement or position (synergistic actions of the joints and neuromuscular system) -  foot, knee, lumber pine, scapulothoracic.
 
 The shoulder joint is considered the most mobile. 
 
