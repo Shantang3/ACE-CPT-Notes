@@ -16,6 +16,8 @@ Cardio interval is typically introduced during fitness training. Anaerobic power
 
 High-intensity activities should be performed close to the beginning of the conditioning portion when the client is less likely to be fatigued. Plyometric drills are most appropriate to be performed at the beginning, following a dynamic warm-up. 
 
+5-10 min cool down to decrease any chances of pooling blood in the extremities.
+
 ## Evidence-based Practice (EBP)
 
 The client, PT expertise and experience, and research findings. 
