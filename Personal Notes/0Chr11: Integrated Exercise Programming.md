@@ -12,7 +12,8 @@ Cardio interval is typically introduced during fitness training. Anaerobic power
 
 6 seconds is the commonly recommended training tempo for new exercises. 
 
-10 minutes is the minimum bout of aerobic exercise. 
+10 minutes is the minimum bout of aerobic exercise.  Any person who is of a fair fitness level or higher can generally safely exercise from 30-90 minutes per day.
+
 
 High-intensity activities should be performed close to the beginning of the conditioning portion when the client is less likely to be fatigued. Plyometric drills are most appropriate to be performed at the beginning, following a dynamic warm-up. 
 
