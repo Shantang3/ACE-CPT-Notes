@@ -30,7 +30,7 @@ The parasympathetic nervous system aids in controlling normal functions when the
 
 ! Table 9.4 to 9.11: Major muscles at the ankle, foot, knee, hip, spine, shoulder girdle, shoulder, elbow, radioulnar joints, wrist. 
 
-Muscle function and muscle-fiber arrangement: longitudinal, unipennate, bipennate, multipennate. One propertythat all muscle tissue has in common is to contract and develop tension. 
+Muscle function and muscle-fiber arrangement: longitudinal, unipennate, bipennate, multipennate. One property that all muscle tissue has in common is to contract and develop tension. 
 
 Ddecomposite: muscle >> bundles of muscle fibers surrounded by perimysium >> muscle fiber, endomysium - connective tissue surrounding individual muscle fibers)
 
