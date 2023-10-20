@@ -58,7 +58,9 @@ A muscle that creates a major movement is called a prime mover, or agonist; the 
 
 - Concentric (shortening) action - isotonic muscle contraction in which the muscle develops tension and shortens when stimulated; E.g. biceps brachii in the lift phase of a bicep curl. 
 
-- Eccentric (lengthening action) - isotonic muscle contraction in which the muscle lengthens against a resistance. E.g. biceps brachii in the lowering phase of a bicep curl. 
+- Eccentric (lengthening action) - isotonic muscle contraction in which the muscle lengthens against a resistance. E.g. biceps brachii in the lowering phase of a bicep curl.
+
+In the training, 6 seconds per rep is recommended with 2-3 sec concentric phase and 3-4 sec eccentric phase. 
 
 #### Kinetic chain movement: 
 
